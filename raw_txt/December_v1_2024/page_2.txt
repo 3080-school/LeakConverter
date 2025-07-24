@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q2",
+        "passage": "The minor planet 1095 Tulipa was named after the plant genus that includes tulips, but given the sheer number of minor planets that have been discovered (more than 500,000 so far), most are given only an identification number. Because any name given to a minor planet needs to be unique to that body, naming each would be _____",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. impractical",
+            "B. presumptuous",
+            "C. ambiguous",
+            "D. customary"
+        ],
+        "has-table": false
+    }
+]
+```

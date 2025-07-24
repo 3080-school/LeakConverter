@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q16",
+        "passage": "Used in everything from food to cleaning products, emulsifiers are compounds that serve to stabilize an emulsion—a mixture of two or more liquids that otherwise would not easily blend together. The emulsifiers used by _____ like oleic acid, allow these scientists to blend oil and water into homogeneous formulations such as lotions and perfumes.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. cosmetic chemists,",
+            "B. cosmetic chemist's,",
+            "C. cosmetic's chemists,",
+            "D. cosmetic chemists’,"
+        ],
+        "has-table": false
+    }
+]
+```

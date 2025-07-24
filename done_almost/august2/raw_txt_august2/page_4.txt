@@ -1,0 +1,26 @@
+[
+    {
+        "id": "q1",
+        "passage": "Researchers Cengiz A. Hidlago, Elisa Casiatelli, and Andres Sefasiuk created a computer model to predict the mix of a city's building sectors and their business success in a given neighborhood. How we define a neighborhood and its boundaries is subjective; so the team created a unique algorithm to model demographics and commercially relevant human-defined neighborhoods, like Boston's Central Square. The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of a city's amenities.",
+        "question": "Which choice best describes the overall structure of the text?",
+        "choices": [
+            "A. It describes how an algorithm can predict the success of certain businesses, discusses an example of a use of that algorithm, and suggests potential uses of the algorithm in other cities.",
+            "B. It introduces a research team’s study of urban neighborhoods; describes an example aspect of the study’s methodology; and suggests a potential application of the results.",
+            "C. It summarizes trends in recent urban development, describes a potential problem for urban planners, and suggests a computational tool that can be used to solve that problem.",
+            "D. It explains why urban planners are interested in understanding the locations of certain businesses, details a study that has addressed this question, and describes one key finding."
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q2",
+        "passage": "The following text is adapted from Abdi Khemarian’s 2018 novel Darius the Great Is Not Okay. The narrator, Darius, is visiting Persepolis with family in Iran. He and his friend Sohrab are at the entrance of the ruins of this ancient city of the Persian Empire. “The Gate Of all Nations,” Sohrab said as he gestured to the lamassus (sculptures and pillars surrounding us). \"That's the name in English.\" I wasn't much of a gate anymore, since anyone or any nation could have easily stepped around it instead of walking through, but it was still amazing. It had survived, somehow, intact, except perhaps if you squinted like Aristotle into a petrified forest, they fell vast, spindly but still miraculously upright. Giant stone slabs formed the remnants of what must once have been a breathtaking entrance.",
+        "question": "Which choice best states the main idea of the text?",
+        "choices": [
+            "A. Darius has seen the columns before",
+            "B. Darius is surprised that Sohrab knows so much about the ruins.",
+            "C. Darius wants to learn about the people who built Persepolis.",
+            "D. Darius is impressed by the overall sight of the ruins."
+        ],
+        "has-table": false
+    }
+]

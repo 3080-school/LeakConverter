@@ -1,0 +1,28 @@
+```json
+[
+    {
+        "id": "q13",
+        "passage": "One way that immature coppery titi monkey offspring learn behaviors such as parenting—closely watching older companions as they engage in an activity that they themselves have not yet mastered. Since mature monkeys typically follow one partner around the social group, peering events tend to increase when an unfamiliar juvenile female approaches and attempts to engage. For researchers, immature males than females do observe attention to conspecifics anyway and therefore are more observable to the mature individual, and this should be reflected in sex-specific factors in peering behavior.",
+        "question": "Which choice best describes data from the table that support Ehmann and colleagues’ hypothesis?",
+        "choices": [
+            "A. The proportion of peering events directed at immaturates to immature conspecific home regions ranged from a low of 0.00 to a high of 3.00.",
+            "B. Individual 5 and individual 8 directed a lower proportion of peering events of immigrants to other home regions than did individual 8 and individual 10.",
+            "C. Individual 8 directed a higher proportion of peering events at immigrants to its home region than did individual 10, and individual 8 directed a higher proportion of peering events than immigrates to its own home region than did individuals 10.",
+            "D. Individual 10 had the highest total number of peering events observed at 33."
+        ],
+        "has-table": true
+    },
+    {
+        "id": "q14",
+        "passage": "British professional soccer team Arsenal Football Club, whose home uniform color is red, performs with twice the frequency in basic marine matches between May and beyond 2020. This is a higher proportion than the proportion of those matches won by Watford Football Club, whose own home uniform color is red, during the same period. According to a study by Martin Intili and colleagues, the host-red can cause people to respond with fear and hesitance, which the researchers think helps explain Arsenal’s success. Nodar Goldmanlendl and colleagues analyzed the published results of many tests, including facial studies where fans of the red uniform team are more likely than other teams to win, suggesting that Watford’s favorite-match win percentage...",
+        "question": "Which choice most logically completes the text?",
+        "choices": [
+            "A. would likely have remained roughly the same if its players had been wearing red uniforms",
+            "B. may have influenced other teams to change their uniform colors.",
+            "C. was directly tied to its players’ general satisfaction with their uniform color.",
+            "D. was likely influenced by its players’ associations with the color red."
+        ],
+        "has-table": false
+    }
+]
+```

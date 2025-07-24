@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q6",
+        "passage": "Karl Polanyi and other historians of capitalism rarely discuss domestic capitalism in Africa before the period of European colonization, implicitly presenting capitalism as external to and imposed on Africa. Mariana Candido and other Africanist scholars have shown, however, that in parts of Africa, centrally administered industrial production, the legal treatment of land as private property, and other features of capitalism predated colonization. One reason for this discrepancy is that historians of capitalism tend to focus on longitudinal economic data drawn from archival records, which do not exist for much of precolonial Africa.",
+        "question": "Which choice best describes the main purpose of the text?",
+        "choices": [
+            "A. To explain why historians of capitalism and Africanist scholars disagree about which activities are features of capitalism",
+            "B. To present and account for a potentially misleading characteristic of the work of historians of capitalism",
+            "C. To describe and evaluate a method used by Africanist scholars that distinguishes their work from that of historians of capitalism",
+            "D. To summarize a debate between historians of capitalism and Africanist scholars about how to interpret longitudinal economic data from archival records"
+        ],
+        "has-table": false
+    }
+]
+```

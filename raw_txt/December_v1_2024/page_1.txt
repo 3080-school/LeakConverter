@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q1",
+        "passage": "The American continents are home to a huge diversity of languages, from Mayo, found in places like Mexico in North America, to Koreguaje, found in places like Colombia in South America. Much like the continents themselves, the variety of native languages in the Americas is _____.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. immense",
+            "B. unknown",
+            "C. ordinary",
+            "D. limited"
+        ],
+        "has-table": false
+    }
+]
+```

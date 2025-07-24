@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q14",
+        "passage": "As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than are countries with much smaller populations, as can be seen by comparing _____",
+        "question": "Which choice most effectively uses data from the table to complete the example?",
+        "choices": [
+            "A. Zambia, which has a low density, with Benin, which has a similar density despite both countries having different geographic sizes.",
+            "B. the geographic size of Mali (1,240,000 square kilometers) with its relatively high population of 17,600,000 inhabitants.",
+            "C. Mali, which has a high population of 17,600,000 inhabitants and a relatively low density of 14.2 inhabitants/square kilometer, with Lesotho, which has a much lower population and a higher density.",
+            "D. the populations of both Lesotho and Benin in 2015 with their populations in 2010."
+        ],
+        "has-table": true
+    }
+]
+```

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "q1",
+        "passage": "The following text is adapted from Mary Seacole's 1857 autobiography Wonderful Adventures of Mary Seacole in Many Lands. That journey across the Isthmus of Panama, insignificant in distance as it was, was by no means an easy one. It tested a man's heart and determined to throw every conceivable obstacle in the way of those who should seek to join the two great oceans of the world.",
+        "question": "As used in the text, what does the word 'conceivable' most nearly mean?",
+        "choices": [
+            "A. Visible",
+            "B. Possible",
+            "C. Regular",
+            "D. Open"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q2",
+        "passage": "In a 2018 article celebrating films depicting the Black experience, critics for the New York Times Jenni Williams overviewed Spike Lee's movies. She ranked Spike Lee's 1992 film 'Malcolm X,' praising the former as 'a vital artifact of its time' and the latter as 'electrifying.'",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. overlooked",
+            "B. commended",
+            "C. criticized",
+            "D. inspired"
+        ],
+        "has-table": false
+    }
+]

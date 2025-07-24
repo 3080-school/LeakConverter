@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q20",
+        "passage": "Between June 22 and July 2 each year, particles shed by comet 7P/Pons-Winnecke enter Earth’s atmosphere at a velocity of 18 kilometers per second. Relatively few of these particles are likely to reach Earth’s _____ since the meteoroids’ compression of the air surrounding them causes the vast majority to burn up in the mesosphere, producing the June Boötid meteor shower.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. surface, however;",
+            "B. surface, however",
+            "C. surface: however,",
+            "D. surface. However,"
+        ],
+        "has-table": false
+    }
+]
+```

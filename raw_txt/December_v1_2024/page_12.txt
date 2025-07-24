@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q12",
+        "passage": "The Age of Innocence is a 1920 novel by Edith Wharton set in New York City in the 1870s. In the novel, Newland Archer attends an opera; in the audience is May Welland, with whom he is romantically involved. Newland visualizes the details of a future with May: _____",
+        "question": "Which quotation from The Age of Innocence best illustrates the claim?",
+        "choices": [
+            "A. “[May] dropped her eyes to the immense bouquet of lilies-of-the-valley on her knee, and Newland Archer saw her white-gloved finger-tips touch the flowers softly.”",
+            "B. “Newland Archer, leaning against the wall at the back of the club box [where his seat was], turned his eyes from the stage and scanned the opposite side of the house.”",
+            "C. “Though there was already talk...of a new Opera House which should compete in costliness and splendour with those of the great European capitals, the world of fashion was still content to reassemble every winter in the shabby red and gold boxes of the sociable old Academy [of Music].”",
+            "D. “Already [Newland’s] imagination, leaping ahead of the engagement ring, the betrothal kiss and the [wedding] march from Lohengrin, pictured [May] at his side.”"
+        ],
+        "has-table": false
+    }
+]
+```

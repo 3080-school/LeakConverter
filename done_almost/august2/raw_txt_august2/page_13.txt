@@ -1,0 +1,26 @@
+[
+    {
+        "id": "q25",
+        "passage": "Antonio Stradivari (1644-1737) made about 1,000 violins in his lifetime. Musicians prize his Stradivarius violins for their fine-tuned sound quality. Many of the 500 or so that exist today are named for a previous owner. The ex Berglund Stradivarius is named for Paavo Berglund, a Finnish violinist.",
+        "question": "Which choice most effectively uses information from the given sentences to explain how the ex-Berglund Stradivarius got its name?",
+        "choices": [
+            "A. The ex-Berglund Stradivarius is named after its former owner, Paavo Berglund.",
+            "B. Of the 1,000 or so violins Antonio Stradivari made, only about 500 exist today.",
+            "C. Designed by Antonio Stradivari, Stradivarius violins like the ex-Berglund are renowned for their quality.",
+            "D. Paavo Berglund was a Finnish violinist."
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q26",
+        "passage": "While researching a topic, a student has taken the following notes: • Terraced fields in Japan’s Aya town prefecture (known practice for thinning or cultivating) rice and field standards in Japanese. • akara were built by carving the steep hillsides into a series of large, flat steps. This agricultural method allowed farmers to increase arable land and prevent landslides. • The sawa, located in Miyagi Prefecture, Japan, was developed during the Sengoku period. • The sengoku period (1467 CE–1615 CE) was characterized by social upheaval and civil war.",
+        "question": "The student wants to explain the design of the Sawaziri tanada. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": [
+            "A. The Sawaziri terraced rice field, or tanada, was built by carving the steep hillsides into a series of large, flat steps, making the land more arable and less prone to landslides.",
+            "B. Developed in the Sengoku period, the Sawaziri tanada was built during a time of Japanese history characterized by social upheaval and civil war.",
+            "C. The agricultural method of carving hillsides into terraced rice fields was a common practice in Japan for centuries.",
+            "D. During the Sengoku period, a farming method was used that involved carving large, flat steps out of the steep hillsides."
+        ],
+        "has-table": false
+    }
+]

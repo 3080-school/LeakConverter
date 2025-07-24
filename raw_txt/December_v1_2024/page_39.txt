@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q12",
+        "passage": "The linguistic niche hypothesis (LNH) posits that the exotericity of languages (how prevalent non-native speakers are) and grammatical complexity are inversely related, which the LNH ascribes to attrition of complex grammatical rules as more non-native speakers adopt the language but fail to acquire those rules. Focusing on two characteristics that are positive indices of grammatical complexity, fusion (when new phonemes arise from the merger of previously distinct ones) and informativity (languages’ capacity for meaningful variation), Olena Shcherbakova and colleagues conducted a quantitative analysis for more than 1,300 languages and claim the outcome is inconsistent with the LNH.",
+        "question": "Which finding, if true, would most directly support Shcherbakova and colleagues’ claim?",
+        "choices": [
+            "A. Shcherbakova and colleagues’ analysis showed a slightly positive correlation between grammatical complexity and fusion.",
+            "B. Shcherbakova and colleagues’ analysis showed a slightly negative correlation between grammatical complexity and exotericity.",
+            "C. Shcherbakova and colleagues’ analysis showed a slightly positive correlation between fusion and exotericity and between informativity and exotericity.",
+            "D. Shcherbakova and colleagues’ analysis showed a slightly negative correlation between grammatical complexity and fusion and between grammatical complexity and informativity."
+        ],
+        "has-table": false
+    }
+]
+```

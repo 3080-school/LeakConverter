@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q1",
+        "passage": "Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for large vortices, fish with intermediate heads would be better able than wide-headed fish to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, intermediate-headed fish will be more likely than wide-headed fish to detect obstructions that create large vortices.",
+        "question": "Which finding, if true, would most directly support the second research team’s hypothesis?",
+        "choices": [
+            "A. A study using obstructions that created large vortices in low-visibility conditions found that the devil catfish (Bagarius bagarius), which has a relatively wide head, bumped into more than half of the obstructions.",
+            "B. A study using obstructions that created large vortices in low-visibility conditions found that the wide-headed devil catfish (Bagarius bagarius) bumped into obstructions more often than the intermediate-headed rainbow trout (Oncorhynchus mykiss) did.",
+            "C. A study using obstructions that created large vortices in low-visibility conditions found that the intermediate-headed rainbow trout (Oncorhynchus mykiss) bumped into the obstructions just as often as the wide-headed devil catfish (Bagarius bagarius) did.",
+            "D. A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the intermediate-headed rainbow trout (Oncorhynchus mykiss) bumped into the obstructions more often than other specimens of the same fish did."
+        ],
+        "has-table": false
+    }
+]
+```

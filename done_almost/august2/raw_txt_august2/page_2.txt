@@ -1,0 +1,28 @@
+```json
+[
+    {
+        "id": "q1",
+        "passage": "Louise Arner Boyd, who led several scientific expeditions off the coast of Greenland in the 1930s, undoubtedly accomplished much, but to gain a rightful place in our historical memories, there is little that can ___ being the first to do something. For example, people will always remember that David Livingstone [...]",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. prevail over",
+            "B. constrain within",
+            "C. overreach by",
+            "D. fluctuate with"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q2",
+        "passage": "The Last of England, painted in the realist style by Ford Madox Brown, depicts a working-class family emigrating to Australia to start a new life. This realism emphasizes accurately portraying the experiences of average working people was largely a rejection of the romantic style evident in many paintings of [...].",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. undermine",
+            "B. exaggerate",
+            "C. correct",
+            "D. mock"
+        ],
+        "has-table": false
+    }
+]
+```

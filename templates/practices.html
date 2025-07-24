@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Practice List</title>
+    <style>
+      body {
+        font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+        background-color: #e7edf8;
+        margin: 0;
+        padding: 0;
+      }
+      .header {
+        text-align: center;
+        font-size: 2rem;
+        font-weight: bold;
+        margin-top: 36px;
+        margin-bottom: 10px;
+        color: #0047AB;
+        letter-spacing: 0.03em;
+      }
+      .subheader {
+        text-align: center;
+        color: #2574a9;
+        font-size: 1.15rem;
+        margin-bottom: 30px;
+        font-weight: 500;
+      }
+      .practice-container {
+        max-width: 540px;
+        margin: 44px auto 0 auto;
+        background: white;
+        border-radius: 16px;
+        padding: 34px 34px 26px 34px;
+        box-shadow: 0 4px 24px rgba(0,32,64,0.11);
+      }
+      .practice-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      .practice-list li {
+        margin-bottom: 17px;
+        padding: 0;
+      }
+      .practice-link {
+        display: block;
+        text-decoration: none;
+        background-color: #f8fafc;
+        border: 1.5px solid #b5c9e8;
+        border-radius: 8px;
+        padding: 18px 23px;
+        font-size: 18px;
+        color: #285398;
+        font-weight: 500;
+        letter-spacing: 0.02em;
+        transition: background 0.13s, border 0.13s, color 0.13s;
+      }
+      .practice-link:hover {
+        background-color: #e0ebff;
+        border-color: #2574a9;
+        color: #0047AB;
+      }
+    </style>
+</head>
+<body>
+    <div class="header">Digital SAT Practice</div>
+    <div class="subheader">Выберите практику для прохождения</div>
+    <div class="practice-container">
+      <ul class="practice-list">
+        {% for practice in practices %}
+          <li>
+            <a class="practice-link" href="{{ url_for('single_question', practice_id=practice, q_number=1) }}">
+              {{ practice }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+</body>
+</html>

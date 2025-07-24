@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q19",
+        "passage": "Though he would go on to work with many respected musicians, including Paul Hanson on his album Frolic in the Land of Plenty, American __________ may be best known for his time with Sugar Hill Records, where he helped craft the sound of early hip-hop music.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. drummer Dennis Chambers",
+            "B. drummer Dennis Chambers,",
+            "C. drummer Dennis Chambers",
+            "D. drummer Dennis Chambers,"
+        ],
+        "has-table": false
+    }
+]
+```

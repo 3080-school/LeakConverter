@@ -1,0 +1,279 @@
+```json
+[
+    {
+        "id": "q1",
+        "passage": "Building additional road capacity may seem like an obvious solution to traffic congestion, but numerous studies have cast doubt on the _____ of that approach. Not only does additional road capacity often fail to relieve congestion, but it can also make traffic worse by encouraging more people to drive.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. Efficacy",
+            "B. Aesthetics",
+            "C. Originality",
+            "D. Popularity"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q2",
+        "passage": "Though many _____ studies of the effect of altitude on blood chemistry focus on people who live above sea level, researchers Suleiman A. Al-Sweedan and Moath Alhaj recently chose the novel path of focusing on people who live below sea level, in locations such as the California towns of Bombay Beach and Imperial.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. Erratic",
+            "B. Traditional",
+            "C. Meager",
+            "D. Random"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q3",
+        "passage": "Whatever the general attitude toward Spike Lee's 1992 film Malcolm X and Carl Franklin's 1995 film Devil in a Blue Dress when they were initially released, both films now tend to be regarded quite _____. In 2018, for example, critics for the New York Times praised the former as 'electrifying' and the latter as 'picture-perfect.'",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. Strangely",
+            "B. Neutrally",
+            "C. Skeptically",
+            "D. Favorably"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q4",
+        "passage": "At the turn of the twentieth century, Black residents of Richmond, Virginia, had few formal options for banking and other financial services. To _____ this situation, Maggie Lena Walker chartered the St. Luke Penny Savings Bank in 1903. The bank went on to provide home loans and savings opportunities to thousands of Black families over the following decades.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. Retain",
+            "B. Highlight",
+            "C. Prolong",
+            "D. Rectify"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q5",
+        "passage": "The Gleaners, painted in the realist style by Jean-François Millet, depicts peasants picking stray wheat from a field after the harvest. The realists' emphasis on accurately portraying the experiences of average working people was largely a rejection of the romantic style evident in many paintings by Horace Vernet, which instead _____ their subjects' beauty or heroism while hiding all imperfection.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. Counteract",
+            "B. Obscure",
+            "C. Rectify",
+            "D. Accentuate"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q6",
+        "passage": "The following text is from Maria Amparo Ruiz de Burton's 1885 novel The Squatter and the Don. Mercedes, being not quite seventeen, her grief at parting from Clarence was wild, vehement and all-absorbing. But she had been trained to obedience, and her battles with the spirit always took place after she carefully locked her bedroom door. Then Clarence was wildly apostrophized, and a torrent of tears relieved the overcharged, aching heart.",
+        "question": "Which choice best states the main purpose of the text?",
+        "choices": [
+            "A. It emphasizes Mercedes's extreme insecurity",
+            "B. It suggests that the magnitude of Mercedes's feelings are unusual for her age",
+            "C. It conveys how Mercedes handles her intense feelings about being separated from Clarence"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q7",
+        "passage": "In 2023 literary scholar Jeremy Douglass cautioned technology investors and enthusiasts who predict conventional books' ultimate displacement by newer forms of media. Douglass observed that the concept of an 'interactive' text is much older than technologists assume, extending back to the first time readers scratched notes into a text's margins. In addition, newer media, such as video games, haven't replaced older forms of entertainment, such as comic books, but rather exist alongside them. Douglass believes that rather than supplanting books, technology is simply making new forms of expression possible.",
+        "question": null,
+        "choices": [],
+        "has-table": false
+    },
+    {
+        "id": "q8",
+        "passage": "Businesses selling clothing and other fashion items face obstacles in trying to forecast how much product to order: tastes and styles change quickly, while manufacturing clothing takes a significant amount of time. Researchers Youan Fu and Marshall Fisher have found that combining sellers' own data with information gathered from social media can dramatically improve the accuracy of such forecasts by 24 to 57 percent in the cases they directly studied. Better predictions mean demand is easier to meet without retailers becoming overstocked.",
+        "question": "Which choice best states the main idea of the text?",
+        "choices": [
+            "A. Becoming overstocked is the main concern of sellers trying to forecast demand for fashion items.",
+            "B. Social media influences the fashion industry.",
+            "C. Using multiple data sources can enhance the ability of sellers in the fashion industry to anticipate demand.",
+            "D. Retailers can use their own data to accurately predict how tastes and styles are evolving."
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q9",
+        "passage": "Women like Grace Murray Hopper made important early contributions to the history of US cryptology, a field concerned with secure data communication and storage. Hopper was a US naval admiral and computer scientist who coined the term \"debugging\" and invented the first compiler program for translating computer code. In this way, Hopper and others like her helped make it possible for more women-such as Anna Lysyanskaya, who currently works in and teaches digital cryptography to enter the field of cryptology.",
+        "question": "According to the text, what is one similarity between Hopper and Lysyanskaya?",
+        "choices": [
+            "A. They both founded organizations that encourage women to pursue careers in cryptology.",
+            "B. They both have contributed to the field of cryptology.",
+            "C. They both have worked in the field of history.",
+            "D. They both have argued that more US schools should teach the history of cryptology."
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q10",
+        "passage": "The following text is from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog). The narrator and two friends are taking a boat down the River Thames in England. In a boat, I have always noticed that it is the fixed idea of each member of the crew that he is doing everything. Harris's notion was, that it was he alone who had been working, and that both George and I had been imposing upon him. George, on the other hand, ridiculed the idea of Harris's having done anything more than eat and sleep, and had a cast-iron opinion that it was he-George himself-who had done all the labour worth speaking of.",
+        "question": "Which choice best states the main idea of the text?",
+        "choices": [
+            "A. The narrator recognizes that Harris's and George's attitudes are typical of how crew members view their own contributions on boats.",
+            "B. The narrator has recognized that Harris spends most of his time eating and sleeping.",
+            "C. Everyone in the group has been given tasks to do, but the narrator hasn't been willing to complete this.",
+            "D. The amount of work that needs to be done on the boat is likely more than the narrator, George, and Harris can handle."
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q11",
+        "passage": "Total Areas of Five Tribal Nations around the United States",
+        "question": "In terms of total area, the Choctaw Nation is one of the largest tribal nations in the United States. It covers 10,864 square miles in what is now southeastern Oklahoma. In comparison, the total area of White Earth Nation in Minnesota is only",
+        "choices": [
+            "A. 1,167 square miles",
+            "B. 4,453 square miles",
+            "C. 3,606 square miles",
+            "D. 2,188 square miles"
+        ],
+        "has-table": true
+    },
+    {
+        "id": "q12",
+        "passage": "Pyramids in Egypt and the Americas",
+        "question": "A student is writing an essay about four pyramids for a history class and wants to note how long ago each pyramid was built. Consulting the table, the student finds that el Castillo was built _____",
+        "choices": [
+            "A. 1,167 square miles",
+            "B. 4,453 square miles",
+            "C. 3,606 square miles",
+            "D. 2,188 square miles"
+        ],
+        "has-table": true
+    },
+    {
+        "id": "q13",
+        "passage": "“A Pair of Silk Stockings” is an 1897 short story written by Kate Chopin. In describing the character of Mrs. Sommers, Chopin emphasizes the uniqueness of Mrs. Sommers’s perspective:",
+        "question": "Which quotation from “A Pair of Silk Stockings” most effectively illustrates the claim?",
+        "choices": [
+            "A. “For a day or two she walked about apparently in a dreamy state, but really absorbed in speculation and calculation.”",
+            "B. “She had no time, no second of time to devote to the past. The needs of the present absorbed her faculty.”",
+            "C. “It is safe to say there was no one present who bore quite the attitude which Mrs. Sommers did to her surroundings. She gathered in the whole-stage and players and people in one wide impression, and absorbed it and enjoyed it.”",
+            "D. “She wanted an excellent and stylish fit, she told the young fellow who served her, and she did not mind the difference of a dollar or two more in the price so long as she got what she desired.”"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q14",
+        "passage": "A student is researching rotating radio transients (RRATs), a subclass of pulsar stars characterized by short pulses of radio waves. The time between consecutive pulses of an RRAT is referred to as a period. Looking at the table, the student determines that ______.",
+        "question": "Which choice most effectively uses data from the table to complete the statement?",
+        "choices": [
+            "A. J0545-03 and J0121+53 have the same amount of time between consecutive pulses.",
+            "B. J0103+54 and J0121+53 both have more than one second of time between consecutive pulses.",
+            "C. J0614-03 has the shortest amount of time between consecutive pulses of all the RRATs in the table.",
+            "D. J1654-2335 has the longest amount of time between consecutive pulses of all the RRATs in the table."
+        ],
+        "has-table": true
+    },
+    {
+        "id": "q15",
+        "passage": null,
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. are",
+            "B. are being",
+            "C. is",
+            "D. have been"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q16",
+        "passage": "Featuring jagged peaks of black ink surrounded by hazy swirls of blue and green paint, Zhang Daqian’s 1983 painting Panorama of Mount Lu is inspired by the tradition of qingli shanshui, a type of Chinese landscape painting _____ by the use of blue and green hues to depict ethereal, otherworldly landscapes.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. characterized",
+            "B. is characterized",
+            "C. has been characterized",
+            "D. will be characterized"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q17",
+        "passage": null,
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. Kay A. Orr.",
+            "B. Kay A. Orr,",
+            "C. Kay A. Orr",
+            "D. Kay A. Orr:"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q18",
+        "passage": "In her work, Bay of Quinte Mohawk artist Hannah Claus uses suspended sculptural installations to explore themes such as time, place, and nature. The Eiteljorg Museum counts pieces by Claus in _____ impressive collection of Native artworks.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. her",
+            "B. it's",
+            "C. its",
+            "D. their"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q19",
+        "passage": "Sociologist Todd Gitlin co-opted the term “recombinant,” normally used in reference to genetic engineering, to describe serialized television shows of the 1980s. Gitlin’s use of the term referenced TV studios’ practice of repackaging successful narrative formulas as new _____ even shows that varied only slightly from other shows still attracted sizable audiences.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. characters",
+            "B. characters,",
+            "C. characters:",
+            "D. characters—"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q20",
+        "passage": "Kati Horna's 1938 photograph \"Stairway to the Cathedral\" is collected in the 2021 exhibition The New-Woman Behind the _______ works by artists from over twenty countries, the exhibition showcases the diverse, innovative, often aesthetically daring work of female photographers from the 1920s through the 1950s.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. Camera, featuring",
+            "B. Camera. Featuring",
+            "C. Camera featuring",
+            "D. Camera and featuring"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q21",
+        "passage": "Australia ratified the Outer Space Treaty, an international agreement with over 100 signing nations that acts as the foundation for the laws of space, on January 27, 1967. Colombia signed the treaty; _______ it has yet to officially ratify it.",
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. however,",
+            "B. similarly,",
+            "C. specifically,",
+            "D. for example,"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q22",
+        "passage": "In her 2012 analysis of tree rings from Japan's Yaku Island, cosmic ray physicist Fusa Miyake noted an anomalous carbon-14 spike dating to 774-755 CE, indicating that a massive burst of radiation reached Earth during that time. _______ this unprecedented radiocarbon surge was dubbed a \"Miyake event\" in honor of its discoverer.",
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. Fittingly,",
+            "B. Similarly,",
+            "C. However,",
+            "D. In other words,"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q23",
+        "passage": "The Coastal Virginia Offshore Wind project is anticipated to generate 2.6 gigawatts of energy, enough to power almost one million homes. As its name indicates, the project-currently in development-consists of wind turbines located off the Virginia coast. _______ the project plan calls for 176 large turbines to be placed at a site 27 miles east of Virginia Beach.",
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. In conclusion,",
+            "B. In contrast,",
+            "C. As a result,",
+            "D. To be exact,"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q24",
+        "passage": "● Minor planets are astronomical objects that orbit the Sun but are neither planets nor comets. ● Astronomer Jane Luu has discovered many minor planets in her career ● Alongside colleague David C. Jewitt, she discovered the minor planet (15836) 1995 DA2 on February 24, 1995. ● Alongside colleagues David C. Jewitt, Chadwick Trujillo, and K. Berney, she discovered the minor planet (24952) 1997 QJ4 on August 28, 1997.",
+        "question": "Which choice most effectively uses information from the given sentences to emphasize the discovery of (15836) 1995 DA2 to an audience already familiar with Jane Luu?",
+        "choices": [
+            "A. First there was the discovery of (15836) 1995 DA2 on February 24, 1995, and then on August 28, 1997, Jane Luu discovered yet another minor planet with the help of her colleagues David C. Jewitt, Chadwick Trujillo, and K. Berney.",
+            "B

@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q25",
+        "passage": "While researching a topic, a student has taken the following notes:\n• The Bauhaus was an influential German art and design school founded in 1919 by Walter Gropius.\n• Gropius was the school's director from 1919 to 1928.\n• Hannes Meyer was its director from 1928 to 1930.\n• Ludwig Mies van der Rohe was its director from 1930 to 1933.\n• Stefan Wolpe was a composer who began attending the Bauhaus in 1923.\n• Iwao Yamawaki was a photographer and architect who began attending the Bauhaus in 1930.",
+        "question": "The student wants to emphasize the order in which the two students attended the Bauhaus. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": [
+            "A. Walter Gropius founded the Bauhaus in 1919 and acted as its director until 1928, at which point Hannes Meyer succeeded him in the role.",
+            "B. Stefan Wolpe and Iwao Yamawaki were both Bauhaus students, but Wolpe, who began attending in 1923, preceded Yamawaki.",
+            "C. Founded in 1919, the Bauhaus was a German art and design school whose past students include Stefan Wolpe and Iwao Yamawaki.",
+            "D. The Bauhaus was founded in 1919, and Iwao Yamawaki began attending in 1930."
+        ],
+        "has-table": false
+    }
+]
+```

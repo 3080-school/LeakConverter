@@ -1,0 +1,26 @@
+[
+    {
+        "id": "q21",
+        "passage": "Included among a particular group of mid-twentieth-century artists known as the New York School, the abstract expressionist was known for using energetic brushstrokes and for capturing the energy and chaos of modern life.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. painter Louise Bourgeoise.",
+            "B. painter Louise Bourgeois.",
+            "C. painters Louise Bourgeoise.",
+            "D. painters Louise Bourgeois."
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q22",
+        "passage": "Scientists were able to isolate a relatively pure sample of cadmium in 1817, the same year they first synthesized the element. <em>The solution process took longer for nickelum, which was isolated in its pure form 63 years after scientists first discovered it.</em>",
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. For instance,",
+            "B. Thus,",
+            "C. Similarly,",
+            "D. By contrast,"
+        ],
+        "has-table": false
+    }
+]

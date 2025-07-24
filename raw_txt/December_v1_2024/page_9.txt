@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q9",
+        "passage": "Companies involved in petroleum extraction include drilling equipment among their assets. But petroleum extraction is a very carbon-intensive industry, so as social attitudes increasingly favor using less carbon-intensive sources of energy, demand for petroleum falls and the drilling equipment will eventually, or even suddenly, become a liability as reduced petroleum prices make it more difficult to recover the expense of maintaining such equipment.",
+        "question": "What claim does the text make about the demand for petroleum?",
+        "choices": [
+            "A. Companies involved in petroleum extraction are not affected by the demand for petroleum.",
+            "B. The societal preference for low-carbon energy sources is a factor in the demand for petroleum.",
+            "C. The demand for petroleum follows a predictable annual cycle.",
+            "D. Companies involved in petroleum extraction can benefit from a decline in the demand for petroleum."
+        ],
+        "has-table": false
+    }
+]
+```

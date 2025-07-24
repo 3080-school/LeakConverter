@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q15",
+        "passage": "Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Kirsty Elizabeth McLaughlin and Hansjoerg P. Kunc found in a 2015 study of zebra cichlids. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of fish showed larger differences than studies of birds did, for every class of animals examined, there were individual studies showing differences well above the average for fish. Therefore, the results of the meta-analysis suggest that _____",
+        "question": "Which choice most logically completes the text?",
+        "choices": [
+            "A. the studies in the meta-analysis that examined fish were more likely than those that examined birds to specify whether the observed effects were experimental.",
+            "B. the difference found in the study conducted by Kirsty Elizabeth McLaughlin and Hansjoerg P. Kunc was likely larger than the average difference for studies of zebra cichlids included in the meta-analysis.",
+            "C. some studies of birds found larger effects of exposure to anthropogenic noise than some studies of fish did.",
+            "D. the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for birds than they are for fish."
+        ],
+        "has-table": false
+    }
+]
+```

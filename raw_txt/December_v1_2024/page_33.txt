@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q6",
+        "passage": "Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria Brevibacillus borstelensis and Lactococcus lactis—it has rarely been observed among eukaryotes (multicellular organisms). However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.",
+        "question": "Which choice best states the function of the underlined sentence in the text as a whole?",
+        "choices": [
+            "A. It indicates a distinction between the mechanics of two kinds of biological processes.",
+            "B. It contrasts the frequency with which a biological phenomenon has been detected in two categories of organisms.",
+            "C. It explains why a common perception of a biological process is flawed.",
+            "D. It argues that two biological phenomena are more similar than they may initially appear to be."
+        ],
+        "has-table": false
+    }
+]
+```

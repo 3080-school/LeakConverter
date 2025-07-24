@@ -1,0 +1,26 @@
+[
+    {
+        "id": "q17",
+        "passage": "An upcoming exhibition will showcase Vincent van Gogh’s drawing Building the Église, which Van Gogh ___ in the city of Nuenen nearly 130 years ago.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. completed",
+            "B. will complete",
+            "C. has been completing",
+            "D. is completing"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q18",
+        "passage": "At 1,668 years old, ICBR-1, a foxtail pine (Pinus balfouriana) located in the United States, is one of the oldest known trees in the world. With almost no millimeter in climate data in its tree rings, a single tree like ___ can, claims dendrochronologist Valerie Trouet, reveal the history of the world.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. this.",
+            "B. this;",
+            "C. this:",
+            "D. this,"
+        ],
+        "has-table": false
+    }
+]

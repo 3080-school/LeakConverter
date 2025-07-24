@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q22",
+        "passage": "Residents of Cairo, Egypt, rely on its rapid transit system, the Cairo Metro, for millions of trips each year. _____ city officials strive to maintain the system’s 71 stations to ensure each of these journeys is as smooth as possible.",
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. For this reason,",
+            "B. However,",
+            "C. For example,",
+            "D. Alternatively,"
+        ],
+        "has-table": false
+    }
+]
+```

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "q27",
+        "passage": "While researching a topic, a student has taken the following notes:\n\n- Elizabeth Catlett (1915-2012) was a celebrated African American artist.\n- She is best known for creating sculptures and prints that explore the Black experience.\n- Face is a 1973 sculpture by Catlett.\n- It is made of marble.",
+        "question": "The student wants to describe a sculpture by Elizabeth Catlett. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": [
+            "A. Made of marble, Face is a 1973 sculpture by Elizabeth Catlett.",
+            "B. Artist Elizabeth Catlett is best known for creating sculptures and prints that explore the Black experience.",
+            "C. Elizabeth Catlett was a celebrated artist whose work includes sculptures.",
+            "D. Elizabeth Catlett, a celebrated artist, was born in 1915."
+        ],
+        "has-table": false
+    }
+]

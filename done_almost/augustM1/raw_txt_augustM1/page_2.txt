@@ -1,0 +1,76 @@
+```json
+[
+    {
+        "id": "q1",
+        "passage": null,
+        "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+        "choices": [
+            "A. It explains the basis for the claim made by the technologists mentioned in the text.",
+            "B. It suggests that academics are better suited than investors to see the potential uses of contemporary interactive texts.",
+            "C. It challenges the stance of the investors and enthusiasts who are mentioned earlier in the text.",
+            "D. It provides a historical anecdote about the technological challenges involved in reading the earliest interactive texts."
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q8",
+        "passage": "Businesses selling clothing and other fashion items face obstacles in trying to forecast how much product to order: tastes and styles change quickly, while manufacturing clothing takes a significant amount of time. Researchers Youan Fu and Marshall Fisher have found that combining sellers' own data with information gathered from social media can dramatically improve the accuracy of such forecasts by 24 to 57 percent in the cases they directly studied. Better predictions mean demand is easier to meet without retailers becoming overstocked.",
+        "question": "Which choice best states the main idea of the text?",
+        "choices": [
+            "A. Becoming overstocked is the main concern of sellers trying to forecast demand for fashion items.",
+            "B. Social media influences the fashion industry.",
+            "C. Using multiple data sources can enhance the ability of sellers in the fashion industry to anticipate demand.",
+            "D. Retailers can use their own data to accurately predict how tastes and styles are evolving."
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q9",
+        "passage": "Women like Grace Murray Hopper made important early contributions to the history of US cryptology, a field concerned with secure data communication and storage. Hopper was a US naval admiral and computer scientist who coined the term \"debugging\" and invented the first compiler program for translating computer code. In this way, Hopper and others like her helped make it possible for more women-such as Anna Lysyanskaya, who currently works in and teaches digital cryptography to enter the field of cryptology.",
+        "question": "According to the text, what is one similarity between Hopper and Lysyanskaya?",
+        "choices": [
+            "A. They both founded organizations that encourage women to pursue careers in cryptology.",
+            "B. They both have contributed to the field of cryptology.",
+            "C. They both have worked in the field of history.",
+            "D. They both have argued that more US schools should teach the history of cryptology."
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q10",
+        "passage": "The following text is from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog). The narrator and two friends are taking a boat down the River Thames in England. In a boat, I have always noticed that it is the fixed idea of each member of the crew that he is doing everything. Harris's notion was, that it was he alone who had been working, and that both George and I had been imposing upon him. George, on the other hand, ridiculed the idea of Harris's having done anything more than eat and sleep, and had a cast-iron opinion that it was he-George himself-who had done all the labour worth speaking of.",
+        "question": "Which choice best states the main idea of the text?",
+        "choices": [
+            "A. The narrator recognizes that Harris's and George's attitudes are typical of how crew members view their own contributions on boats.",
+            "B. The narrator has recognized that Harris spends most of his time eating and sleeping.",
+            "C. Everyone in the group has been given tasks to do, but the narrator hasn't been willing to complete this.",
+            "D. The amount of work that needs to be done on the boat is likely more than the narrator, George, and Harris can handle."
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q11",
+        "passage": "Total Areas of Five Tribal Nations around the United States",
+        "question": "In terms of total area, the Choctaw Nation is one of the largest tribal nations in the United States. It covers 10,864 square miles in what is now southeastern Oklahoma. In comparison, the total area of White Earth Nation in Minnesota is only",
+        "choices": [
+            "A. 1,167 square miles",
+            "B. 4,453 square miles",
+            "C. 3,606 square miles",
+            "D. 2,188 square miles"
+        ],
+        "has-table": true
+    },
+    {
+        "id": "q12",
+        "passage": "Pyramids in Egypt and the Americas",
+        "question": "A student is writing an essay about four pyramids for a history class and wants to note how long ago each pyramid was built. Consulting the table, the student finds that el Castillo was built _____",
+        "choices": [
+            "A. 1,167 square miles",
+            "B. 4,453 square miles",
+            "C. 3,606 square miles",
+            "D. 2,188 square miles"
+        ],
+        "has-table": true
+    }
+]
+```

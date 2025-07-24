@@ -1,0 +1,26 @@
+[
+    {
+        "id": "q15",
+        "passage": "Studies have shown that when we listen to high-tempo music (songs with a high number of beats per minute) during endurance exercise, we perceive the exercise as slower than it actually is, which leads to an increased pace and a higher heart rate. Researchers recruited college students to study this notion by having participants jog outdoors for 30 minutes while listening to Aerosmith’s “Livin’ on the Edge” (109 beats per minute). The next day, participants performed the same activity while listening to Beyonce’s “Irreplaceable” (85 bpm), a slower tempo song. The results revealed participants ",
+        "question": "Which choice most logically completes the text?",
+        "choices": [
+            "A. perceiving their effort as higher while jogging than they had the previous day.",
+            "B. jogging a longer distance in the 30 minutes than they had the previous day.",
+            "C. varying their jogging pace more than they had the previous day.",
+            "D. exhibiting a higher average heart rate while jogging than they had the previous day."
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q16",
+        "passage": "In the 1960s and the 1970s, a loose-knit group of writers including Sonia Sanchez, Gwendolyn Brooks, and James Johnson __________ numerous works of poetry and fiction exploring the Black American experience and together came to be known as the Black Arts movement.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. are publishing",
+            "B. published",
+            "C. will publish",
+            "D. publish"
+        ],
+        "has-table": false
+    }
+]

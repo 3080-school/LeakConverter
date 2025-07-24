@@ -1,0 +1,28 @@
+```json
+[
+    {
+        "id": "q26",
+        "passage": "A Foucault pendulum dangles from a fixed point that ensures the swing path of the pendulum doesn't change. To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.",
+        "question": "The student wants to emphasize a similarity between the two locations. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": [
+            "A. Because Earth rotates beneath it, the swing path of the Foucault pendulum at the Museu de les Ciències Príncipe Felipe appears to change over time.",
+            "B. The Museu de les Ciències Príncipe Felipe, which is home to a Foucault pendulum, is in Spain, not Romania.",
+            "C. The Museu de les Ciències Príncipe Felipe in Valencia, Spain, and Vasile Alecsandri National College in Galați, Romania, both house Foucault pendulums.",
+            "D. One Foucault pendulum is in Spain, and the other is in Romania."
+        ],
+        "has_table": false
+    },
+    {
+        "id": "q27",
+        "passage": "The Music by Black Composers (MBC) project aims to inspire aspiring music students by archiving and sharing information about the music of Black classical composers. William Benjamin Cooper is a Black classical music composer included in MBC's Historic Composers Directory. He was born in 1920 and died in 1993.",
+        "question": "Which choice most effectively uses information from the given sentences to set up a discussion of Cooper's career for an audience already familiar with the MBC project?",
+        "choices": [
+            "A. While William Benjamin Cooper is considered a great composer, there are many more such composers included in the MBC Historic Composers Directory.",
+            "B. The MBC project's Historic Composers Directory highlights Black classical composers of the past, such as William Benjamin Cooper (1920-1993), in order to inspire music students to become the classical composers of the future.",
+            "C. Among the many talented figures included in the MBC project is classical music composer William Benjamin Cooper.",
+            "D. Born in 1920, William Benjamin Cooper passed away in 1993, according to the MBC project."
+        ],
+        "has_table": false
+    }
+]
+```

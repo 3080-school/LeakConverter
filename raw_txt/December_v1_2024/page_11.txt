@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q11",
+        "passage": "Hawaiian home lands are areas of public land in the state of Hawaii that have been reserved for use by the Kānaka Maoli, or the Native Hawaiian people. The largest of the home lands, Hōmūlua-Upper Piihonua, covers nearly 100 square miles on the island of Hawaii. Most of the home lands are much smaller. For example, the total area of Kamoku-Kapulena is 7.47 square miles, and the total area of Nanakuli is",
+        "question": "Which choice most effectively uses data from the table to complete the example?",
+        "choices": [
+            "A. 37.26 square miles.",
+            "B. 3.61 square miles.",
+            "C. 23.57 square miles.",
+            "D. 15.99 square miles."
+        ],
+        "has-table": true
+    }
+]
+```

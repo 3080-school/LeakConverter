@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q27",
+        "passage": "While researching a topic, a student has taken the following notes:\n\n- Little is known about the life of Wong Fei-hung (1847-1925).\n- He was born near Foshan, China, and gained local recognition as a physician and Hung Ga (also known as Hung Gar) Kung Fu master.\n- He achieved many incredible martial arts feats—some confirmed and some rumored.\n- He has become an internationally known folk hero thanks to his depiction in over a hundred films, television shows, and other media.\n- In the 1991 film Once Upon a Time in China, actor Jet Li portrays Wong Fei-hung using superhuman kung fu abilities to save his community.",
+        "question": "The student wants to emphasize the effect media had on building Wong Fei-hung’s legacy. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": [
+            "A. Thanks to his depiction in over a hundred pieces of media, Wong Fei-hung was locally known as a successful physician and Hung Ga Kung Fu master.",
+            "B. Wong Fei-hung’s abilities as a kung fu master are depicted in many media, including the 1991 film Once Upon a Time in China.",
+            "C. Various media have depicted Wong Fei-hung, the successful physician and kung fu master who became an internationally known folk hero.",
+            "D. Though he was known locally during his lifetime, Wong Fei-hung’s later depiction in television, film, and other media has turned him into an internationally known folk hero."
+        ],
+        "has-table": false
+    }
+]
+```

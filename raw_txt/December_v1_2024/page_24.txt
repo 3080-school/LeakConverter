@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q24",
+        "passage": "While researching a topic, a student has taken the following notes:\n\nLighthouses send out crucial light signals to help ships and other watercraft navigate at night.\nBefore automation, lighthouses were run by lighthouse keepers.\nBetsy Morrow Humphrey was the lighthouse keeper at Monhegan Island Light in Maine.\nShe held this position from 1862 to 1880.\nThelma Austin was the lighthouse keeper at Point Fermin Light in California.\nShe held this position from 1925 to 1941.",
+        "question": "The student wants to emphasize a difference between the two lighthouse keepers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": [
+            "A. As the lighthouse keeper at Point Fermin Light, Thelma Austin helped watercraft navigate at night.",
+            "B. From 1862 to 1880, the nighttime waters of Maine were made more navigable thanks to Betsy Morrow Humphrey.",
+            "C. Betsy Morrow Humphrey worked as a lighthouse keeper in an earlier century than did Thelma Austin.",
+            "D. Betsy Morrow Humphrey and Thelma Austin both played crucial roles in ensuring safe navigation for watercraft in past centuries."
+        ],
+        "has-table": false
+    }
+]
+```

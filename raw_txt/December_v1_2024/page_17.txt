@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q17",
+        "passage": "Many mechanical calculators were powered by a notched cylinder mechanism called the Leibniz wheel. Leibniz wheel calculators were popular in the first half of the twentieth _____ these ingenious devices were eventually replaced by electronic calculators.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. century,",
+            "B. century that",
+            "C. century.",
+            "D. century, but"
+        ],
+        "has-table": false
+    }
+]
+```

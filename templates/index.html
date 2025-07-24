@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SAT Modules Viewer</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f7f9fb;
+    }
+
+    header {
+      background: #002b5c;
+      color: white;
+      padding: 20px 40px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 24px;
+    }
+
+    .source-input {
+      margin-top: 10px;
+    }
+
+    .source-input input {
+      padding: 8px;
+      width: 300px;
+      border-radius: 6px;
+      border: none;
+    }
+
+    .module {
+      padding: 30px;
+      border-bottom: 2px solid #ddd;
+    }
+
+    .question-block {
+      background: white;
+      margin: 30px auto;
+      width: 90%;
+      max-width: 1000px;
+      border-radius: 10px;
+      padding: 30px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      display: flex;
+    }
+
+    .passage {
+      flex: 1;
+      padding-right: 30px;
+      border-right: 1px solid #ccc;
+      font-size: 16px;
+      line-height: 1.6;
+    }
+
+    .content {
+      flex: 1;
+      padding-left: 30px;
+    }
+
+    .question-id {
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
+
+    .question-text {
+      margin: 10px 0 20px;
+      font-size: 16px;
+    }
+
+    .option {
+      display: block;
+      margin-bottom: 15px;
+      padding: 12px 18px;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.2s, border 0.2s;
+    }
+
+    .option input {
+      margin-right: 10px;
+    }
+
+    .option.selected {
+      border: 2px solid #0074D9;
+      background-color: #eaf4ff;
+    }
+
+    .option:hover {
+      background-color: #f1f1f1;
+    }
+
+    .table-img {
+      margin-top: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      max-width: 100%;
+    }
+
+    .submit-button {
+      margin: 20px auto;
+      display: block;
+      padding: 10px 20px;
+      background-color: #0074D9;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    .submit-button:hover {
+      background-color: #005fa3;
+    }
+
+    .question-nav {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .question-nav button {
+      margin: 3px;
+      padding: 8px 14px;
+      border: 1px solid #0074D9;
+      background: white;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    .question-nav button:hover {
+      background: #e0f0ff;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>SAT: EBRW and Math Modules</h1>
+  <div class="source-input">
+    <label for="source">Источник слива:</label>
+    <input type="text" id="source" placeholder="Например: August 2024 v5 full">
+  </div>
+</header>
+
+<div id="modules-container">
+  {% for module in modules %}
+    <div class="module" data-module="{{ loop.index }}">
+      <h2>{{ module.name }}</h2>
+
+      {% for q in module.questions %}
+        <div class="question-block" id="q{{ q.id }}">
+          <div class="passage">
+            {{ q.passage | replace('\n', '<br>') | safe }}
+          </div>
+          <div class="content">
+            <div class="question-id">Question {{ loop.index0 + module.start }}</div>
+            <div class="question-text">{{ q.question }}</div>
+            {% for opt in q.options %}
+              <label class="option">
+                <input type="radio" name="q{{ q.id }}" value="{{ opt }}"> {{ opt }}
+              </label>
+            {% endfor %}
+            {% if q.table_img %}
+              <img class="table-img" src="/tables_cropped/{{ q.table_img }}" alt="Table for {{ q.id }}">
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+
+      <div class="question-nav">
+        {% for i in range(module.start, module.end + 1) %}
+          <button onclick="scrollToQuestion('q{{ i }}')">{{ i }}</button>
+        {% endfor %}
+      </div>
+
+      <button class="submit-button">Submit {{ module.name }}</button>
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+  // Highlight selected option
+  document.querySelectorAll('.option').forEach(option => {
+    option.addEventListener('click', () => {
+      const group = option.closest('.content').querySelectorAll('.option');
+      group.forEach(o => o.classList.remove('selected'));
+      option.classList.add('selected');
+    });
+  });
+
+  // Scroll to question
+  function scrollToQuestion(id) {
+    const el = document.getElementById(id);
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q1",
+        "passage": "Possessing an outstanding collection of public art, Chicago has everything from monumental mosaics like Marc Chagall’s Four Seasons at sites like Chase Tower to innovative street art like Kashink’s mural Be The Change You Wish To See located on South Wabash Avenue. The _____ public art on display in the city can thus satisfy any art lover.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. breadth of",
+            "B. controversy over",
+            "C. confusion about",
+            "D. apathy toward"
+        ],
+        "has-table": false
+    }
+]
+```

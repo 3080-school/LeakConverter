@@ -1,0 +1,88 @@
+```json
+[
+    {
+        "id": "q13",
+        "passage": "“A Pair of Silk Stockings” is an 1897 short story written by Kate Chopin. In describing the character of Mrs. Sommers, Chopin emphasizes the uniqueness of Mrs. Sommers’s perspective:",
+        "question": "Which quotation from “A Pair of Silk Stockings” most effectively illustrates the claim?",
+        "choices": [
+            "A. “For a day or two she walked about apparently in a dreamy state, but really absorbed in speculation and calculation.”",
+            "B. “She had no time, no second of time to devote to the past. The needs of the present absorbed her faculty.”",
+            "C. “It is safe to say there was no one present who bore quite the attitude which Mrs. Sommers did to her surroundings. She gathered in the whole-stage and players and people in one wide impression, and absorbed it and enjoyed it.”",
+            "D. “She wanted an excellent and stylish fit, she told the young fellow who served her, and she did not mind the difference of a dollar or two more in the price so long as she got what she desired.”"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q14",
+        "passage": "A student is researching rotating radio transients (RRATs), a subclass of pulsar stars characterized by short pulses of radio waves. The time between consecutive pulses of an RRAT is referred to as a period. Looking at the table, the student determines that ______.",
+        "question": "Which choice most effectively uses data from the table to complete the statement?",
+        "choices": [
+            "A. J0545-03 and J0121+53 have the same amount of time between consecutive pulses.",
+            "B. J0103+54 and J0121+53 both have more than one second of time between consecutive pulses.",
+            "C. J0614-03 has the shortest amount of time between consecutive pulses of all the RRATs in the table.",
+            "D. J1654-2335 has the longest amount of time between consecutive pulses of all the RRATs in the table."
+        ],
+        "has-table": true
+    },
+    {
+        "id": "q15",
+        "passage": null,
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. are",
+            "B. are being",
+            "C. is",
+            "D. have been"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q16",
+        "passage": "Featuring jagged peaks of black ink surrounded by hazy swirls of blue and green paint, Zhang Daqian’s 1983 painting Panorama of Mount Lu is inspired by the tradition of qingli shanshui, a type of Chinese landscape painting _____ by the use of blue and green hues to depict ethereal, otherworldly landscapes.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. characterized",
+            "B. is characterized",
+            "C. has been characterized",
+            "D. will be characterized"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q17",
+        "passage": null,
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. Kay A. Orr.",
+            "B. Kay A. Orr,",
+            "C. Kay A. Orr",
+            "D. Kay A. Orr:"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q18",
+        "passage": "In her work, Bay of Quinte Mohawk artist Hannah Claus uses suspended sculptural installations to explore themes such as time, place, and nature. The Eiteljorg Museum counts pieces by Claus in _____ impressive collection of Native artworks.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. her",
+            "B. it's",
+            "C. its",
+            "D. their"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q19",
+        "passage": "Sociologist Todd Gitlin co-opted the term “recombinant,” normally used in reference to genetic engineering, to describe serialized television shows of the 1980s. Gitlin’s use of the term referenced TV studios’ practice of repackaging successful narrative formulas as new _____ even shows that varied only slightly from other shows still attracted sizable audiences.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. characters",
+            "B. characters,",
+            "C. characters:",
+            "D. characters—"
+        ],
+        "has-table": false
+    }
+]
+```

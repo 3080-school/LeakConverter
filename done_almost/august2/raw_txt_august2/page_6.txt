@@ -1,0 +1,26 @@
+[
+    {
+        "id": "q11",
+        "passage": "Memoirs of Elleanor Eldridge is an 1838 historical account by Elleanor Eldridge and Frances Harriet Whipple Green. In their book, the authors write that people don’t need to be famous to live worthy of memoirs, writing, \"...\"",
+        "question": "Which quotation from Memoirs of Elleanor Eldridge most effectively illustrates this claim?",
+        "choices": [
+            "A. 'Then let no one turn with too much [fascination] from the simple story of the humble Eldridges; though it may contain few, or none, of the thrilling charms of poverty and passion.'",
+            "B. 'There is often a kind of life-giving light playing around worth (Elleanor’s name); calculated to desire and imbibe, by their feeble nature, until the eye can no longer receive the pure light of Truth, or the mind appreciate real excellence, or intrinsic worth!'",
+            "C. '\"That should not be considered essential to the interest and value of biography, that its subject be of exalted rank, or illustrious name.'",
+            "D. 'How careful ought we to be to speak nothing but the truth, even in regard to the most trifling circumstances and events, if we wish to be well assured that what we suppose to be true, is truth, before we receive it as such.'"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q12",
+        "passage": "To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo-Mora and his co-authors used aerial imagery and spatial analysis techniques to acquire data about several factors affecting forest cover. The graph displays data on categories that indicate possible uses of forested land. Due to the Chorotega region’s infrastructure, the future of these forests in the region cannot be projected with certainty. Since 1979 the respective levels of forest cover have been in decline. There is likely a single conclusion for the rise in protected natural conditions: proper protection of these forests, which are desirable in their own right, provided a renewed environmental opportunity, boosted by the decline in user prices, triggered natural regrowth processes as evident by the numbers.",
+        "question": "Which choice most effectively uses data from the graph to complete the assertion?",
+        "choices": [
+            "A. decrease in the forest cover area for all classes from 1960 to 1979.",
+            "B. difference between the forest cover area in Class IV and in Class VI in 2000.",
+            "C. increase in the forest cover area for all classes from 1979 to 2000.",
+            "D. similarity in forest cover area in Class IV and Class VIII in 1960."
+        ],
+        "has-table": true
+    }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "q1",
+    "passage": "The following text is adapted from Mary Seacole's 1857 autobiography Wonderful Adventures of Mary Seacole in Many Lands. That journey across the Isthmus of Panama, insignificant in distance as it was, was by no means an easy one. It tested a man's heart and determined to throw every conceivable obstacle in the way of those who should seek to join the two great oceans of the world.",
+    "question": "As used in the text, what does the word 'conceivable' most nearly mean?",
+    "choices": [
+      "A. Visible",
+      "B. Possible",
+      "C. Regular",
+      "D. Open"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q2",
+    "passage": "In a 2018 article celebrating films depicting the Black experience, critics for the New York Times Jenni Williams overviewed Spike Lee's movies. She ranked Spike Lee's 1992 film 'Malcolm X,' praising the former as 'a vital artifact of its time' and the latter as 'electrifying.'",
+    "question": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": [
+      "A. overlooked",
+      "B. commended",
+      "C. criticized",
+      "D. inspired"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q3",
+    "passage": "Louise Arner Boyd, who led several scientific expeditions off the coast of Greenland in the 1930s, undoubtedly accomplished much, but to gain a rightful place in our historical memories, there is little that can ___ being the first to do something. For example, people will always remember that David Livingstone [...]",
+    "question": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": [
+      "A. prevail over",
+      "B. constrain within",
+      "C. overreach by",
+      "D. fluctuate with"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q4",
+    "passage": "The Last of England, painted in the realist style by Ford Madox Brown, depicts a working-class family emigrating to Australia to start a new life. This realism emphasizes accurately portraying the experiences of average working people was largely a rejection of the romantic style evident in many paintings of [...].",
+    "question": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": [
+      "A. undermine",
+      "B. exaggerate",
+      "C. correct",
+      "D. mock"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q5",
+    "passage": "When people think of dinosaurs with feathers, they typically think of winged dinosaurs, such as the four-winged Microraptor. However, many dinosaurs that were wingless had feathers on their bodies. For instance, research indicates that the walking, predatory Tyrannosaurus likely had feathers.",
+    "question": "Which choice best states the main purpose of the text?",
+    "choices": [
+      "A. To argue that only one species of dinosaur had feathers",
+      "B. To explain why feathered dinosaurs went extinct",
+      "C. To point out the differences between dinosaur feathers and bird feathers",
+      "D. To discuss the presence of feathers on certain types of dinosaurs"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q6",
+    "passage": "Can field mustard plants grow on Mars? Can peas pianos? You might think the answer to the question is irrevocably no, but researchers in the Netherlands recently showed that the seeds of many common plant species can germinate in soil designed to simulate Martian conditions. In one study, for example, 10 species were seeded on dilutive Martian soil that in Earth soil. 93 percent of field mustard seeds sprouted when planted in simulated Martian soil, compared with 4 percent that did when planted in soil from their home planter.",
+    "question": "Which choice best states the main purpose of the text?",
+    "choices": [
+      "A. To explain an important study of differences in the composition of Martian soil and the composition of Earth soil",
+      "B. To present a surprising finding about plants grown in soil intended to simulate a Martian environment",
+      "C. To answer long-standing questions about how Martian soil conditions can be simulated on Earth",
+      "D. To disclose an unexpected result about the role of water in plants grown in simulated Martian soil"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q7",
+    "passage": "Researchers Cengiz A. Hidlago, Elisa Casiatelli, and Andres Sefasiuk created a computer model to predict the mix of a city's building sectors and their business success in a given neighborhood. How we define a neighborhood and its boundaries is subjective; so the team created a unique algorithm to model demographics and commercially relevant human-defined neighborhoods, like Boston's Central Square. The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of a city's amenities.",
+    "question": "Which choice best describes the overall structure of the text?",
+    "choices": [
+      "A. It describes how an algorithm can predict the success of certain businesses, discusses an example of a use of that algorithm, and suggests potential uses of the algorithm in other cities.",
+      "B. It introduces a research team’s study of urban neighborhoods; describes an example aspect of the study’s methodology; and suggests a potential application of the results.",
+      "C. It summarizes trends in recent urban development, describes a potential problem for urban planners, and suggests a computational tool that can be used to solve that problem.",
+      "D. It explains why urban planners are interested in understanding the locations of certain businesses, details a study that has addressed this question, and describes one key finding."
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q8",
+    "passage": "The following text is adapted from Abdi Khemarian’s 2018 novel Darius the Great Is Not Okay. The narrator, Darius, is visiting Persepolis with family in Iran. He and his friend Sohrab are at the entrance of the ruins of this ancient city of the Persian Empire. “The Gate Of all Nations,” Sohrab said as he gestured to the lamassus (sculptures and pillars surrounding us). \"That's the name in English.\" I wasn't much of a gate anymore, since anyone or any nation could have easily stepped around it instead of walking through, but it was still amazing. It had survived, somehow, intact, except perhaps if you squinted like Aristotle into a petrified forest, they fell vast, spindly but still miraculously upright. Giant stone slabs formed the remnants of what must once have been a breathtaking entrance.",
+    "question": "Which choice best states the main idea of the text?",
+    "choices": [
+      "A. Darius has seen the columns before",
+      "B. Darius is surprised that Sohrab knows so much about the ruins.",
+      "C. Darius wants to learn about the people who built Persepolis.",
+      "D. Darius is impressed by the overall sight of the ruins."
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q9",
+    "passage": "Michelle Pereira et al. hypothesized that introducing health improvements into workplaces would increase productivity by reducing absenteeism (aka employees not working) and by preventing office workers working less productively due to illness. Pereira’s team monitored groups of Australian workers in two programs: those who were encouraged to enroll in EEP and EFT (self-development via health-related seminars/certificates). They then calculated the productivity loss of those groups at 12 weeks and at 12 months after the programs began in order to assess productivity gain. They then concluded that seminars/EFT benefit the EEP group more than both, though both promotion seminars were enough, thus result took time to become apparent.",
+    "question": "Which choice best describes data from the table that most effectively strengthens Pereira and colleagues' conclusions?",
+    "choices": [
+      "A. Productivity loss for the EFT group barely decreased between 12 weeks and 12 months after the program began, while productivity loss for the EEP group significantly increased during the same time period.",
+      "B. Productivity loss was consistently higher for the EEP group than for the EFT group over the two months that it was measured, though the size of the difference between the two decreased over that time.",
+      "C. Productivity loss was fairly similar for the EFT and EEP groups 12 weeks after each program began, but at 12 months afterward it had significantly increased for the EEP group and significantly decreased for the EFT group.",
+      "D. Productivity loss was largely steady between the EEP group at 12 weeks and the EFT group at 12 months, though it was significantly higher nonetheless for the EEP group 2.1 months after the programs began."
+    ],
+    "has-table": true
+  },
+  {
+    "id": "q10",
+    "passage": "Many believe that lullabies, characterized by their slow tempos, contain some acoustic features universally seen as soothing to infants. In 2019, Clemente B. Ramirolday and colleagues played both a lullaby sung in the Turkana language and a non-lullaby sung in the Tuvalu Nativees language to a group of infants. The researchers also measured the infants' heart rates, a reduced heart rate is considered a measure of relaxation. They claim that the lullaby did indeed relax the infants.",
+    "question": "Which finding, if true, would most directly support Ramirolday and colleagues' claim?",
+    "choices": [
+      "A. The heart rates of infants in the study were more irregular during the lullaby than during the non-lullabies.",
+      "B. Infants’ heart rates were substantially lower during the lullaby than during the non-lullaby.",
+      "C. Parents of infants in the study chose the lullaby over the non-lullaby when asked which song they would use to calm their child.",
+      "D. Both the song in Turkana and the song in Tuvalu Nativees were sung by a female singer."
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q11",
+    "passage": "Memoirs of Elleanor Eldridge is an 1838 historical account by Elleanor Eldridge and Frances Harriet Whipple Green. In their book, the authors write that people don’t need to be famous to live worthy of memoirs, writing, \"...\"",
+    "question": "Which quotation from Memoirs of Elleanor Eldridge most effectively illustrates this claim?",
+    "choices": [
+      "A. 'Then let no one turn with too much [fascination] from the simple story of the humble Eldridges; though it may contain few, or none, of the thrilling charms of poverty and passion.'",
+      "B. 'There is often a kind of life-giving light playing around worth (Elleanor’s name); calculated to desire and imbibe, by their feeble nature, until the eye can no longer receive the pure light of Truth, or the mind appreciate real excellence, or intrinsic worth!'",
+      "C. '\"That should not be considered essential to the interest and value of biography, that its subject be of exalted rank, or illustrious name.'",
+      "D. 'How careful ought we to be to speak nothing but the truth, even in regard to the most trifling circumstances and events, if we wish to be well assured that what we suppose to be true, is truth, before we receive it as such.'"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q12",
+    "passage": "To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo-Mora and his co-authors used aerial imagery and spatial analysis techniques to acquire data about several factors affecting forest cover. The graph displays data on categories that indicate possible uses of forested land. Due to the Chorotega region’s infrastructure, the future of these forests in the region cannot be projected with certainty. Since 1979 the respective levels of forest cover have been in decline. There is likely a single conclusion for the rise in protected natural conditions: proper protection of these forests, which are desirable in their own right, provided a renewed environmental opportunity, boosted by the decline in user prices, triggered natural regrowth processes as evident by the numbers.",
+    "question": "Which choice most effectively uses data from the graph to complete the assertion?",
+    "choices": [
+      "A. decrease in the forest cover area for all classes from 1960 to 1979.",
+      "B. difference between the forest cover area in Class IV and in Class VI in 2000.",
+      "C. increase in the forest cover area for all classes from 1979 to 2000.",
+      "D. similarity in forest cover area in Class IV and Class VIII in 1960."
+    ],
+    "has-table": true
+  },
+  {
+    "id": "q13",
+    "passage": "One way that immature coppery titi monkey offspring learn behaviors such as parenting—closely watching older companions as they engage in an activity that they themselves have not yet mastered. Since mature monkeys typically follow one partner around the social group, peering events tend to increase when an unfamiliar juvenile female approaches and attempts to engage. For researchers, immature males than females do observe attention to conspecifics anyway and therefore are more observable to the mature individual, and this should be reflected in sex-specific factors in peering behavior.",
+    "question": "Which choice best describes data from the table that support Ehmann and colleagues’ hypothesis?",
+    "choices": [
+      "A. The proportion of peering events directed at immaturates to immature conspecific home regions ranged from a low of 0.00 to a high of 3.00.",
+      "B. Individual 5 and individual 8 directed a lower proportion of peering events of immigrants to other home regions than did individual 8 and individual 10.",
+      "C. Individual 8 directed a higher proportion of peering events at immigrants to its home region than did individual 10, and individual 8 directed a higher proportion of peering events than immigrates to its own home region than did individuals 10.",
+      "D. Individual 10 had the highest total number of peering events observed at 33."
+    ],
+    "has-table": true
+  },
+  {
+    "id": "q14",
+    "passage": "British professional soccer team Arsenal Football Club, whose home uniform color is red, performs with twice the frequency in basic marine matches between May and beyond 2020. This is a higher proportion than the proportion of those matches won by Watford Football Club, whose own home uniform color is red, during the same period. According to a study by Martin Intili and colleagues, the host-red can cause people to respond with fear and hesitance, which the researchers think helps explain Arsenal’s success. Nodar Goldmanlendl and colleagues analyzed the published results of many tests, including facial studies where fans of the red uniform team are more likely than other teams to win, suggesting that Watford’s favorite-match win percentage...",
+    "question": "Which choice most logically completes the text?",
+    "choices": [
+      "A. would likely have remained roughly the same if its players had been wearing red uniforms",
+      "B. may have influenced other teams to change their uniform colors.",
+      "C. was directly tied to its players’ general satisfaction with their uniform color.",
+      "D. was likely influenced by its players’ associations with the color red."
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q15",
+    "passage": "Studies have shown that when we listen to high-tempo music (songs with a high number of beats per minute) during endurance exercise, we perceive the exercise as slower than it actually is, which leads to an increased pace and a higher heart rate. Researchers recruited college students to study this notion by having participants jog outdoors for 30 minutes while listening to Aerosmith’s “Livin’ on the Edge” (109 beats per minute). The next day, participants performed the same activity while listening to Beyonce’s “Irreplaceable” (85 bpm), a slower tempo song. The results revealed participants ",
+    "question": "Which choice most logically completes the text?",
+    "choices": [
+      "A. perceiving their effort as higher while jogging than they had the previous day.",
+      "B. jogging a longer distance in the 30 minutes than they had the previous day.",
+      "C. varying their jogging pace more than they had the previous day.",
+      "D. exhibiting a higher average heart rate while jogging than they had the previous day."
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q16",
+    "passage": "In the 1960s and the 1970s, a loose-knit group of writers including Sonia Sanchez, Gwendolyn Brooks, and James Johnson __________ numerous works of poetry and fiction exploring the Black American experience and together came to be known as the Black Arts movement.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": [
+      "A. are publishing",
+      "B. published",
+      "C. will publish",
+      "D. publish"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q17",
+    "passage": "An upcoming exhibition will showcase Vincent van Gogh’s drawing Building the Église, which Van Gogh ___ in the city of Nuenen nearly 130 years ago.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": [
+      "A. completed",
+      "B. will complete",
+      "C. has been completing",
+      "D. is completing"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q18",
+    "passage": "At 1,668 years old, ICBR-1, a foxtail pine (Pinus balfouriana) located in the United States, is one of the oldest known trees in the world. With almost no millimeter in climate data in its tree rings, a single tree like ___ can, claims dendrochronologist Valerie Trouet, reveal the history of the world.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": [
+      "A. this.",
+      "B. this;",
+      "C. this:",
+      "D. this,"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q19",
+    "passage": "In the Silurian hypothesis, astrophysicist Adam Frank and climatologist Gavin Schmidt grapple with a specialized new concept with evidence yet unearthing advanced civilizations. This sensational hypothesis excuses the scientists’ practical assumptions. Frank and Schmidt don’t believe such a civilization existed, and their ‘hypothesis’ is a thought experiment exploring the traces an alien civilization will leave on the geological record.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": [
+      "A. aim, however,",
+      "B. aim. However,",
+      "C. aim: however,",
+      "D. aim; however,"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q20",
+    "passage": "A 2012 study led by _____ studied the impact of fertilizers containing nitrogen on grassland bird populations. Another study, led by Kimberly J. La Pierre in 2015, looked at fertilizers containing nitrogen and two other macronutrients: phosphorus and potassium.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": [
+      "A. researcher: Alex D.K. Dittrich,",
+      "B. researcher; Alex D.K. Dittrich,",
+      "C. researcher Alex D.K. Dittrich,",
+      "D. researcher Alex D.K. Dittrich;"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q21",
+    "passage": "Included among a particular group of mid-twentieth-century artists known as the New York School, the abstract expressionist was known for using energetic brushstrokes and for capturing the energy and chaos of modern life.",
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": [
+      "A. painter Louise Bourgeoise.",
+      "B. painter Louise Bourgeois.",
+      "C. painters Louise Bourgeoise.",
+      "D. painters Louise Bourgeois."
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q22",
+    "passage": "Scientists were able to isolate a relatively pure sample of cadmium in 1817, the same year they first synthesized the element. <em>The solution process took longer for nickelum, which was isolated in its pure form 63 years after scientists first discovered it.</em>",
+    "question": "Which choice completes the text with the most logical transition?",
+    "choices": [
+      "A. For instance,",
+      "B. Thus,",
+      "C. Similarly,",
+      "D. By contrast,"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q23",
+    "passage": "When ordering the branches of the Colville River system by Strahler's method, one begins with the heavily branched portion of the Colville River's tributaries. With Shreve's method, one begins at the top of the river system, with the Okokliakura River and other tributaries fed by the riverway's source, Alaska's De Long Mountain.",
+    "question": "Which choice completes the text with the most logical transition?",
+    "choices": [
+      "A. Indeed.",
+      "B. Specifically.",
+      "C. In other words.",
+      "D. Alternatively."
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q24",
+    "passage": "While researching a topic, a student has taken the following notes:\n\n- Buland Darwaza is a historic gateway.\n- It is located in the city of Agra, India.\n- It is one of the many monuments and structures built by the Mughal Empire.\n- The Mughal Empire was a South Asian empire.\n- It lasted from the early sixteenth century to the mid-nineteenth century.",
+    "question": "The student wants to specify the location of Buland Darwaza. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": [
+      "A. Buland Darwaza is a historic gateway built by the Mughal Empire.",
+      "B. Buland Darwaza was built by the Mughal Empire, a South Asian empire that emerged in the early sixteenth century.",
+      "C. The Mughal Empire, which built Buland Darwaza, lasted from the early sixteenth century to the mid-nineteenth century.",
+      "D. 'Buland Darwaza can be found in Agra, a city in the country of India.'"
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q25",
+    "passage": "Antonio Stradivari (1644-1737) made about 1,000 violins in his lifetime. Musicians prize his Stradivarius violins for their fine-tuned sound quality. Many of the 500 or so that exist today are named for a previous owner. The ex Berglund Stradivarius is named for Paavo Berglund, a Finnish violinist.",
+    "question": "Which choice most effectively uses information from the given sentences to explain how the ex-Berglund Stradivarius got its name?",
+    "choices": [
+      "A. The ex-Berglund Stradivarius is named after its former owner, Paavo Berglund.",
+      "B. Of the 1,000 or so violins Antonio Stradivari made, only about 500 exist today.",
+      "C. Designed by Antonio Stradivari, Stradivarius violins like the ex-Berglund are renowned for their quality.",
+      "D. Paavo Berglund was a Finnish violinist."
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q26",
+    "passage": "While researching a topic, a student has taken the following notes: • Terraced fields in Japan’s Aya town prefecture (known practice for thinning or cultivating) rice and field standards in Japanese. • akara were built by carving the steep hillsides into a series of large, flat steps. This agricultural method allowed farmers to increase arable land and prevent landslides. • The sawa, located in Miyagi Prefecture, Japan, was developed during the Sengoku period. • The sengoku period (1467 CE–1615 CE) was characterized by social upheaval and civil war.",
+    "question": "The student wants to explain the design of the Sawaziri tanada. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": [
+      "A. The Sawaziri terraced rice field, or tanada, was built by carving the steep hillsides into a series of large, flat steps, making the land more arable and less prone to landslides.",
+      "B. Developed in the Sengoku period, the Sawaziri tanada was built during a time of Japanese history characterized by social upheaval and civil war.",
+      "C. The agricultural method of carving hillsides into terraced rice fields was a common practice in Japan for centuries.",
+      "D. During the Sengoku period, a farming method was used that involved carving large, flat steps out of the steep hillsides."
+    ],
+    "has-table": false
+  },
+  {
+    "id": "q27",
+    "passage": "While researching a topic, a student has taken the following notes:\n\n- Elizabeth Catlett (1915-2012) was a celebrated African American artist.\n- She is best known for creating sculptures and prints that explore the Black experience.\n- Face is a 1973 sculpture by Catlett.\n- It is made of marble.",
+    "question": "The student wants to describe a sculpture by Elizabeth Catlett. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": [
+      "A. Made of marble, Face is a 1973 sculpture by Elizabeth Catlett.",
+      "B. Artist Elizabeth Catlett is best known for creating sculptures and prints that explore the Black experience.",
+      "C. Elizabeth Catlett was a celebrated artist whose work includes sculptures.",
+      "D. Elizabeth Catlett, a celebrated artist, was born in 1915."
+    ],
+    "has-table": false
+  }
+]

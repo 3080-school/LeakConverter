@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q23",
+        "passage": "In 2015, geologist Peter Rogerson recalculated the geographic center of Nebraska, which had previously been determined in 1920 by the US Geological Survey (USGS). The USGS, Rogerson contended, had omitted important considerations, not least the curvature of the earth. ______ the state's USGS-determined center - a point 10 miles northwest of the municipality of Broken Bow - was inaccurate.",
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. Next,",
+            "B. That being said,",
+            "C. Hence,",
+            "D. However,"
+        ],
+        "has-table": false
+    }
+]
+```

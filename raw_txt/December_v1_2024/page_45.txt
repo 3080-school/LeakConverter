@@ -1,0 +1,14 @@
+[
+    {
+        "id": "q18",
+        "passage": "The fungus Scleroderma citrinum, commonly referred to as common earthball, is known to establish ectomycorrhizal bonds with certain oak tree species; in many cases, such symbiotic relationships, wherein fungal hyphae make contact with the oak's root system, _____ extensive networks, which can be used to transport nutrients between trees.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. to form",
+            "B. having formed",
+            "C. form",
+            "D. forming"
+        ],
+        "has-table": false
+    }
+]

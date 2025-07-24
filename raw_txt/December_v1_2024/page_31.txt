@@ -1,0 +1,14 @@
+[
+    {
+        "id": "q4",
+        "passage": "Companies are providing consumers with more opportunities to purchase customized products than ever before. Whether buying customized sneakers, jewelry, or clothing, consumers can participate in the design of products to meet their specific needs and tastes. In turn, companies profit too: studies have shown that consumers are willing to pay more and wait longer for a customized product. Still, it can be difficult for companies to offer customization while keeping costs low, as the standard methods of mass production may not be able to accommodate making a unique product each time.",
+        "question": "Which choice best describes the overall structure of the text?",
+        "choices": [
+            "A. It discusses several recent innovations in product manufacturing and then suggests some potential applications of those innovations.",
+            "B. It describes a company's recent success with new products and then explains multiple factors that may have contributed to that success.",
+            "C. It presents two contrasting product-marketing techniques and then provides examples of one of those techniques.",
+            "D. It introduces a trend in consumer products and then explains how the trend both benefits and poses a challenge to companies."
+        ],
+        "has-table": false
+    }
+]

@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q23",
+        "passage": "Box modeling, used by digital artists to develop 3D assets for video games, yields objects with precise mathematical proportions. Granted, as they are formed from perfect geometric shapes, such 3D elements lack organic realism; _______ post-modeling processes such as UV surface mapping are needed to achieve the level of verisimilitude gamers expect.",
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. consequently,",
+            "B. similarly,",
+            "C. in sum,",
+            "D. however,"
+        ],
+        "has-table": false
+    }
+]
+```

@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q2",
+        "passage": "In a 2018 article about films depicting the experiences of Black Americans, critics for the New York Times praise Madeline Anderson’s 1970 film I Am Somebody as “galvanizing” and Carl Franklin’s 1995 film Devil in a Blue Dress as “picture-perfect.” Fans of the two films hope that such ______ will attract new audiences to these works.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. ambivalence",
+            "B. acclaim",
+            "C. foresight",
+            "D. impartiality"
+        ],
+        "has-table": false
+    }
+]
+```

@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q8",
+        "passage": "Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Joel Brown and colleagues found to be negatively associated with foraging by Arizona pocket mice but Deborah J. Curtis and colleagues found to be positively associated with foraging by mongoose lemurs. This discrepancy is explainable in terms of OFT: the lemurs’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.",
+        "question": "Which choice best describes the finding made by Curtis and colleagues, as presented in the text?",
+        "choices": [
+            "A. Increased lunar intensity is more beneficial for mongoose lemurs than it is for Arizona pocket mice.",
+            "B. As lunar intensity increases, mongoose lemurs increase their foraging activity.",
+            "C. During periods of high lunar intensity, mongoose lemurs increase their reliance on vision.",
+            "D. As lunar intensity increases, Arizona pocket mice reduce their foraging activity."
+        ],
+        "has-table": false
+    }
+]
+```

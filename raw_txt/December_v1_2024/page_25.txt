@@ -1,0 +1,14 @@
+[
+    {
+        "id": "q25",
+        "passage": "While researching a topic, a student has taken the following notes: If a moon orbiting a planet comes close enough to that planet, tidal forces can cause the moon to break apart. In a 2022 study, researchers proposed that Saturn was once orbited by a large moon they named Chrysalis. Their simulations indicated that Chrysalis would likely have come very close to Saturn around 160 million years ago. At that distance, Chrysalis would have been broken apart by tidal forces. The researchers hypothesized that the resulting debris formed Saturn’s rings.",
+        "question": "The student wants to recount the sequence of events proposed by the researchers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": [
+            "A. According to researchers’ simulations, debris from Saturn’s rings would likely have caused Chrysalis—a large moon orbiting Saturn—to break apart around 160 million years ago.",
+            "B. In a 2022 study, researchers proposed that Saturn was once orbited by a large moon that broke apart.",
+            "C. Around 160 million years ago, a large moon (Chrysalis) may have come close enough to Saturn that tidal forces broke the moon apart; its debris then formed the planet’s rings.",
+            "D. If a moon orbiting a planet (like Saturn) comes close enough to that planet, tidal forces can cause the moon to break apart."
+        ],
+        "has-table": false
+    }
+]

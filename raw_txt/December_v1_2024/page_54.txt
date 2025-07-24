@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q27",
+        "passage": "While researching a topic, a student has taken the following notes: • Element abundance is a relative measure of the amount of a chemical element in a given environment. • Abundance can be expressed as a mass fraction. • A mass fraction is the ratio of the total mass of an element to the combined mass of all elements in a given environment. • The mass fraction of iron (Fe) on Earth is 319,000 parts per million (ppm). • The mass fraction of strontium (Sr) on Earth is 13 ppm.",
+        "question": "The student wants to specify the total mass of Earth's iron relative to that of all elements. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": [
+            "A. The mass fraction of iron on Earth is 319,000 ppm.",
+            "B. Iron’s mass relative to the combined mass of all elements on Earth is 13 ppm.",
+            "C. Iron’s abundance can be expressed by a mass fraction, a measure of the element’s mass relative to that of all elements on Earth.",
+            "D. Iron’s abundance on Earth is greater than strontium’s, as reflected by iron’s higher mass fraction."
+        ],
+        "has-table": false
+    }
+]
+```

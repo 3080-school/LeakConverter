@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q26",
+        "passage": "Birds of Northern South America is an identification guidebook by ornithologists Robin Restall, Clemencia Rodner, and Miguel Lentino.\nIt lists the thirty-five hummingbird species found in Suriname.\nThe green-throated mango is a large hummingbird found in Suriname.\nIt is identifiable by its green throat and its long, black, curved bill.\nThe horned sungem is a medium-sized hummingbird found in Suriname.\nIt is identifiable by its distinctive multicolored, tufted crown and its short, black, straight bill.",
+        "question": "Which choice most effectively uses information from the given sentences to emphasize a similarity between the two birds?",
+        "choices": [
+            "A. Birds of Northern South America is an expertly compiled guidebook by ornithologists Robin Restall, Clemencia Rodner, and Miguel Lentino.",
+            "B. Though they share several traits in common, the green-throated mango is larger than the horned sungem.",
+            "C. While each exhibits unique traits of its own, the green-throated mango and the horned sungem both have black bills.",
+            "D. The horned sungem is a medium-sized hummingbird identifiable by its distinctive multicolored, tufted crown and its short, black, straight bill."
+        ],
+        "has-table": false
+    }
+]
+```

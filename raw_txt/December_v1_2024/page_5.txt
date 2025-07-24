@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q5",
+        "passage": "Archaeologists studying the ancient city of Pompeii in Italy recently discovered a well-preserved food shop known as a thermopolium. The site contains food remains, artworks, and decorations. These items give researchers a better understanding of what daily life in Pompeii may have been like. For example, the archaeologists found a ceramic jar that they believe likely contained a meat and seafood stew.",
+        "question": "Which choice best states the main purpose of the text?",
+        "choices": [
+            "A. To discuss the political system of Italy",
+            "B. To present a recent archaeological discovery",
+            "C. To describe a region’s climate",
+            "D. To compare ancient artworks with modern ones"
+        ],
+        "has-table": false
+    }
+]
+```

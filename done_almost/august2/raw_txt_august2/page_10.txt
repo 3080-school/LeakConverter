@@ -1,0 +1,26 @@
+[
+    {
+        "id": "q19",
+        "passage": "In the Silurian hypothesis, astrophysicist Adam Frank and climatologist Gavin Schmidt grapple with a specialized new concept with evidence yet unearthing advanced civilizations. This sensational hypothesis excuses the scientists’ practical assumptions. Frank and Schmidt don’t believe such a civilization existed, and their ‘hypothesis’ is a thought experiment exploring the traces an alien civilization will leave on the geological record.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. aim, however,",
+            "B. aim. However,",
+            "C. aim: however,",
+            "D. aim; however,"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q20",
+        "passage": "A 2012 study led by _____ studied the impact of fertilizers containing nitrogen on grassland bird populations. Another study, led by Kimberly J. La Pierre in 2015, looked at fertilizers containing nitrogen and two other macronutrients: phosphorus and potassium.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. researcher: Alex D.K. Dittrich,",
+            "B. researcher; Alex D.K. Dittrich,",
+            "C. researcher Alex D.K. Dittrich,",
+            "D. researcher Alex D.K. Dittrich;"
+        ],
+        "has-table": false
+    }
+]

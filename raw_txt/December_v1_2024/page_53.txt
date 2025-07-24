@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q26",
+        "passage": "While researching a topic, a student has taken the following notes: \n• Generally, an object will heat up when twisted.\n• The twisting of an object is known as torsion.\n• A 2019 study led by Zunfeng Liu and Ray Baughman tested the torsional heating of various fibers.\n• When a 1-millimeter-thick sample of dimethicone fiber was twisted, its average surface temperature increased by 1.8°C.\n• When a 4-millimeter-thick sample of styrene-ethylene-butylene-styrene (SEBS) rubber fiber was twisted, its average surface temperature increased by 3.5°C.",
+        "question": "The student wants to contrast the two samples. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": [
+            "A. The SEBS rubber sample used in the 2019 study was thicker than the dimethicone sample.",
+            "B. Twisting an object will generally cause its temperature to increase, a process known as torsional heating.",
+            "C. When the fibers were twisted as part of the 2019 study, the surface temperature of both samples increased.",
+            "D. In 2019, researchers studied the effect of torsional heating on various fibers, including samples of SEBS rubber and dimethicone."
+        ],
+        "has-table": false
+    }
+]
+```

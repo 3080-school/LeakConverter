@@ -1,0 +1,83 @@
+```json
+[
+    {
+        "id": "q20",
+        "passage": null,
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. Camera, featuring",
+            "B. Camera Featuring",
+            "C. Camera featuring",
+            "D. Camera and featuring"
+        ],
+        "has_table": false
+    },
+    {
+        "id": "q21",
+        "passage": null,
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. however,",
+            "B. similarly,",
+            "C. specifically,",
+            "D. for example,"
+        ],
+        "has_table": false
+    },
+    {
+        "id": "q22",
+        "passage": null,
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. Fittingly,",
+            "B. Similarly,",
+            "C. However,",
+            "D. In other words,"
+        ],
+        "has_table": false
+    },
+    {
+        "id": "q23",
+        "passage": null,
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. In conclusion,",
+            "B. In contrast,",
+            "C. As a result,",
+            "D. To be exact,"
+        ],
+        "has_table": false
+    },
+    {
+        "id": "q24",
+        "passage": null,
+        "question": "Which choice most effectively uses information from the given sentences to emphasize the discovery of (15836) 1995 DA2 to an audience already familiar with Jane Luu?",
+        "choices": [
+            "A. First there was the discovery of (15836) 1995 DA2 on February 24, 1995, and then on August 28, 1997, Jane Luu discovered yet another minor planet with the help of her colleagues David C. Jewitt, Chadwick Trujillo, and K. Berney.",
+            "B. Astronomer Jane Luu helped discover not only the minor planet (15836) 1995 DA2 on February 24, 1995, but also (24952) 1997 QJ4 on August 28, 1997.",
+            "C. Jane Luu is an astronomer famous for her discovery of many minor planets in our solar system, including (15836) 1995 DA2.",
+            "D. On February 24, 1995, Jane Luu and her colleague David C. Jewitt made the discovery of the minor planet (15836) 1995 DA2."
+        ],
+        "has_table": false
+    },
+    {
+        "id": "q25",
+        "passage": null,
+        "question": "Which choice most effectively uses information from the given sentences to specify what type of neutrino research Kim is known for?",
+        "choices": [
+            "A. Neutrinos are a type of subatomic particle that particle physicists are still trying to understand.",
+            "B. Soo-Bong Kim, whose research involves particle physics, is from South Korea.",
+            "C. In the ongoing pursuit to better understand these subatomic particles, particle physicist Soo-Bong Kim is known for his research on neutrino oscillations.",
+            "D. One scientist who has worked to advance our understanding of neutrinos is the South Korean particle physicist Soo-Bong Kim."
+        ],
+        "has_table": false
+    },
+    {
+        "id": "q26",
+        "passage": null,
+        "question": "While researching a topic, a student has taken the following notes: The Museu de les Ciències Príncipe Felipe is in Valencia, Spain. It is home to a Foucault pendulum. Vasile Alecsandri National College is in Galaţi, Romania. It is home to a Foucault pendulum.",
+        "choices": [],
+        "has_table": false
+    }
+]
+```

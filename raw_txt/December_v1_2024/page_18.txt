@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q18",
+        "passage": "Nigerian American artist Toyin Ojih Odutola uses black-ink pens to create highly detailed drawings of human figures. Her portrait of novelist Zadie ______ is displayed in the National Portrait Gallery in London.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. Smith:",
+            "B. Smith,",
+            "C. Smith.",
+            "D. Smith"
+        ],
+        "has-table": false
+    }
+]
+```

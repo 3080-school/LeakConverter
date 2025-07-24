@@ -1,0 +1,26 @@
+[
+    {
+        "id": "q23",
+        "passage": "When ordering the branches of the Colville River system by Strahler's method, one begins with the heavily branched portion of the Colville River's tributaries. With Shreve's method, one begins at the top of the river system, with the Okokliakura River and other tributaries fed by the riverway's source, Alaska's De Long Mountain.",
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. Indeed.",
+            "B. Specifically.",
+            "C. In other words.",
+            "D. Alternatively."
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q24",
+        "passage": "While researching a topic, a student has taken the following notes:\n\n- Buland Darwaza is a historic gateway.\n- It is located in the city of Agra, India.\n- It is one of the many monuments and structures built by the Mughal Empire.\n- The Mughal Empire was a South Asian empire.\n- It lasted from the early sixteenth century to the mid-nineteenth century.",
+        "question": "The student wants to specify the location of Buland Darwaza. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+        "choices": [
+            "A. Buland Darwaza is a historic gateway built by the Mughal Empire.",
+            "B. Buland Darwaza was built by the Mughal Empire, a South Asian empire that emerged in the early sixteenth century.",
+            "C. The Mughal Empire, which built Buland Darwaza, lasted from the early sixteenth century to the mid-nineteenth century.",
+            "D. 'Buland Darwaza can be found in Agra, a city in the country of India.'"
+        ],
+        "has-table": false
+    }
+]

@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q10",
+        "passage": "Why do flat-headed cats purr but jaguars roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Flat-headed cats, which are much smaller than jaguars, have a rigid hyoid that rumbles when the cat's larynx vibrates, resulting in a purr. By contrast, jaguars have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that flat-headed cats lack. These traits allow jaguars and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.",
+        "question": "According to the text, which trait do researchers think may contribute to a flat-headed cat's ability to purr?",
+        "choices": [
+            "A. The shape of the flat-headed cat’s larynx",
+            "B. The ligament attaching the hyoid bone to the flat-headed cat’s skull",
+            "C. The flat-headed cat’s rigid hyoid bone",
+            "D. The relative size of the flat-headed cat’s body and throat"
+        ],
+        "has-table": false
+    }
+]
+```

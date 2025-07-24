@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q17",
+        "passage": "Along with carbon dioxide concentration and temperature, light intensity affects the chemical reaction rate of _____ as light intensity increases, so does the rate at which the reactants (water and carbon dioxide) are converted into their products (glucose and oxygen).",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. photosynthesis",
+            "B. photosynthesis:",
+            "C. photosynthesis and",
+            "D. photosynthesis,"
+        ],
+        "has-table": false
+    }
+]
+```

@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q10",
+        "passage": "The bird species Myiobius barbatus (the bearded flycatcher) shares some territory in French Guiana with Thamnomanes caesius (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues recorded T. caesius alarm calls and played them in the vicinity of wild M. barbatus. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that M. barbatus associates T. caesius alarm calls with danger.",
+        "question": "Which finding, if true, would most directly support Martinez and colleagues’ conclusion?",
+        "choices": [
+            "A. Other bird species than M. barbatus also showed a tendency to freeze in place or scatter into vegetation when Martinez and colleagues played T. caesius alarm calls.",
+            "B. Martinez and colleagues played alarm calls from different T. caesius individuals and observed no significant variation in the responses of M. barbatus.",
+            "C. In some instances, M. barbatus froze in place or scattered into vegetation when Martinez and colleagues approached but before they began playing sounds.",
+            "D. When Martinez and colleagues played control sounds of random noise in the vicinity of M. barbatus, the birds displayed no reaction."
+        ],
+        "has-table": false
+    }
+]
+```

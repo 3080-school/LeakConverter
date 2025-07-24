@@ -1,0 +1,14 @@
+[
+    {
+        "id": "q13",
+        "passage": "Neuroscientist Kiyohito Iigaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P7 gave equal ratings to the impressionist and color-field paintings, the data in the graph suggest that the model predicted that _____",
+        "question": "Which choice most effectively uses data from the graph to complete the statement?",
+        "choices": [
+            "A. P7's ratings for impressionist and color-field paintings would differ from one another.",
+            "B. P7 would derive more aesthetic pleasure from impressionist paintings than from color-field paintings.",
+            "C. P7's ratings for impressionist and color-field paintings would equal one another.",
+            "D. P7 would derive less aesthetic pleasure from impressionist paintings than from color-field paintings."
+        ],
+        "has-table": true
+    }
+]

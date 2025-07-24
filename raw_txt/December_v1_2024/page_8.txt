@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q8",
+        "passage": "The following text is from Julia Alvarez’s 2000 novel In the Name of Salomé. Salomé, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.\n\nIt was evening when the two men got up to leave. Tía Ana had already come into the room several times to see if these guests had departed yet. The front parlor had always been her special province, as she used it for her little school. Now, every evening, it turned into Salomé’s salon, as Ramona called it, and it was never in order for its transformation back to a classroom the following morning.",
+        "question": "Based on the text, what most likely motivates Tía Ana’s behavior during Salomé’s salon?",
+        "choices": [
+            "A. She is frustrated because she needs assistance elsewhere in the house, but Salomé is unavailable while entertaining the guests.",
+            "B. She is anxious for the gathering to disperse so that she can ready the space for her own needs.",
+            "C. She is impatient to share her plans to start a new school with the guests and hopes they will support her.",
+            "D. She finds the guests to be dull and is eager to find a way to leave the salon."
+        ],
+        "has-table": false
+    }
+]
+```

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "q20",
+        "passage": "Gretchen Legler's short essay on “sound,” a word referring to a large inlet or channel of a sea or ocean, is included in the collection Home Ground: A Guide to the American Landscape. The book wasn’t written solely by ________; other authors, such as Stephen Graham Jones and Barry Lopez, also contributed essays.",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. Legler, however.",
+            "B. Legler; however.",
+            "C. Legler. However.",
+            "D. Legler however;"
+        ],
+        "has-table": false
+    }
+]

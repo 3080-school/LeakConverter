@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q3",
+        "passage": "Drivers who strongly believe that the toll they must pay to use the San Luis Pass-Vacek Toll Bridge, which spans the San Luis Pass in Texas, is currently too high are likely to be _____ arguments for increasing the toll. Advocates for a higher toll are likely to have more success if they instead direct their arguments toward a more persuadable segment of the population.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. cited in",
+            "B. apprised of",
+            "C. unsympathetic to",
+            "D. placated by"
+        ],
+        "has-table": false
+    }
+]
+```

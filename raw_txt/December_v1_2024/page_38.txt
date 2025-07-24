@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q11",
+        "passage": "Researchers have used several different methods to determine the population density of cougars (Puma concolor). A student claims that the use of scat-detecting dogs produces the most precise results, with the smallest difference between minimum and maximum densities.",
+        "question": "Which choice best describes data from the table that weaken the student’s claim?",
+        "choices": [
+            "A. David M. Choate et al. reported a density range of 4.65 individuals per 100 square kilometers despite the use of helicopter surveying.",
+            "B. Rahel Sollmann et al. reported a density range that was substantially smaller than that reported by David M. Choate et al.",
+            "C. Gregory A. Davidson et al. reported a density range greater than that reported by some studies that used other methods.",
+            "D. Gregory A. Davidson et al. reported a maximum density of 5.50 individuals per 100 square kilometers, which differed from that reported by some studies that used other methods."
+        ],
+        "has-table": true
+    }
+]
+```

@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q15",
+        "passage": "Humans have a very strong bias toward right-handedness, with approximately 85–90% having right as their dominant hand. Among studies of nonhuman primates, James Welles’s 1976 study of captive chimpanzees and catarrhine monkeys reported more right-handed individuals than left-handed ones, but William C. McGrew and colleagues’ 1999 study of wild chimpanzees did not find a tendency toward right-handedness. It’s important to note, however, that captive animals spend significantly more time with humans than wild animals do, and therefore _____",
+        "question": "Which choice most logically completes the text?",
+        "choices": [
+            "A. the apparent difference between the two studies’ results may be partly attributable to the 1976 study using a different standard to determine handedness than the 1999 study did.",
+            "B. the right-handedness exhibited by the captive chimpanzees and catarrhine monkeys might be, in part, an effect of extended contact with humans.",
+            "C. the number of individuals in the study of captive chimpanzees and catarrhine monkeys is likely too small to support the claim that the species tends toward right-handedness.",
+            "D. the number of individuals in the study of wild chimpanzees is probably too small to support the claim that no tendency toward right-handedness was found in that population."
+        ],
+        "has-table": false
+    }
+]
+```

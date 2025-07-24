@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q21",
+        "passage": "The Organisation for Economic Co-operation and Development (OECD) tracks comparative price list data for its thirty-eight member countries. According to this data, in July 2021, a “basket” of goods and services priced at 100 US dollars (USD) in the United States would have cost 66 USD in fellow OECD member",
+        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "choices": [
+            "A. nation Latvia.",
+            "B. nation: Latvia.",
+            "C. nation, Latvia.",
+            "D. nation—Latvia."
+        ],
+        "has-table": false
+    }
+]
+```

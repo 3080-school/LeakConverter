@@ -1,0 +1,26 @@
+[
+    {
+        "id": "q9",
+        "passage": "Michelle Pereira et al. hypothesized that introducing health improvements into workplaces would increase productivity by reducing absenteeism (aka employees not working) and by preventing office workers working less productively due to illness. Pereira’s team monitored groups of Australian workers in two programs: those who were encouraged to enroll in EEP and EFT (self-development via health-related seminars/certificates). They then calculated the productivity loss of those groups at 12 weeks and at 12 months after the programs began in order to assess productivity gain. They then concluded that seminars/EFT benefit the EEP group more than both, though both promotion seminars were enough, thus result took time to become apparent.",
+        "question": "Which choice best describes data from the table that most effectively strengthens Pereira and colleagues' conclusions?",
+        "choices": [
+            "A. Productivity loss for the EFT group barely decreased between 12 weeks and 12 months after the program began, while productivity loss for the EEP group significantly increased during the same time period.",
+            "B. Productivity loss was consistently higher for the EEP group than for the EFT group over the two months that it was measured, though the size of the difference between the two decreased over that time.",
+            "C. Productivity loss was fairly similar for the EFT and EEP groups 12 weeks after each program began, but at 12 months afterward it had significantly increased for the EEP group and significantly decreased for the EFT group.",
+            "D. Productivity loss was largely steady between the EEP group at 12 weeks and the EFT group at 12 months, though it was significantly higher nonetheless for the EEP group 2.1 months after the programs began."
+        ],
+        "has-table": true
+    },
+    {
+        "id": "q10",
+        "passage": "Many believe that lullabies, characterized by their slow tempos, contain some acoustic features universally seen as soothing to infants. In 2019, Clemente B. Ramirolday and colleagues played both a lullaby sung in the Turkana language and a non-lullaby sung in the Tuvalu Nativees language to a group of infants. The researchers also measured the infants' heart rates, a reduced heart rate is considered a measure of relaxation. They claim that the lullaby did indeed relax the infants.",
+        "question": "Which finding, if true, would most directly support Ramirolday and colleagues' claim?",
+        "choices": [
+            "A. The heart rates of infants in the study were more irregular during the lullaby than during the non-lullabies.",
+            "B. Infants’ heart rates were substantially lower during the lullaby than during the non-lullaby.",
+            "C. Parents of infants in the study chose the lullaby over the non-lullaby when asked which song they would use to calm their child.",
+            "D. Both the song in Turkana and the song in Tuvalu Nativees were sung by a female singer."
+        ],
+        "has-table": false
+    }
+]

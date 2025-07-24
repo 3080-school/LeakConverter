@@ -1,0 +1,28 @@
+```json
+[
+    {
+        "id": "q1",
+        "passage": "When people think of dinosaurs with feathers, they typically think of winged dinosaurs, such as the four-winged Microraptor. However, many dinosaurs that were wingless had feathers on their bodies. For instance, research indicates that the walking, predatory Tyrannosaurus likely had feathers.",
+        "question": "Which choice best states the main purpose of the text?",
+        "choices": [
+            "A. To argue that only one species of dinosaur had feathers",
+            "B. To explain why feathered dinosaurs went extinct",
+            "C. To point out the differences between dinosaur feathers and bird feathers",
+            "D. To discuss the presence of feathers on certain types of dinosaurs"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q2",
+        "passage": "Can field mustard plants grow on Mars? Can peas pianos? You might think the answer to the question is irrevocably no, but researchers in the Netherlands recently showed that the seeds of many common plant species can germinate in soil designed to simulate Martian conditions. In one study, for example, 10 species were seeded on dilutive Martian soil that in Earth soil. 93 percent of field mustard seeds sprouted when planted in simulated Martian soil, compared with 4 percent that did when planted in soil from their home planter.",
+        "question": "Which choice best states the main purpose of the text?",
+        "choices": [
+            "A. To explain an important study of differences in the composition of Martian soil and the composition of Earth soil",
+            "B. To present a surprising finding about plants grown in soil intended to simulate a Martian environment",
+            "C. To answer long-standing questions about how Martian soil conditions can be simulated on Earth",
+            "D. To disclose an unexpected result about the role of water in plants grown in simulated Martian soil"
+        ],
+        "has-table": false
+    }
+]
+```

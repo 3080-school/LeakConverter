@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q21",
+        "passage": "While most animals prefer the safety of nighttime migration, many poisonous amphibians—a category that includes the red-bellied newt and the fire salamander—safely engage in migratory behavior during the day. ______ with the sun in the sky, the amphibians’ striking color patterns deter visually oriented daytime predators by serving as a warning of toxicity.",
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. At that time,",
+            "B. For example,",
+            "C. In other words,",
+            "D. However,"
+        ],
+        "has-table": false
+    }
+]
+```

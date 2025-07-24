@@ -1,0 +1,80 @@
+[
+    {
+        "id": "q1",
+        "passage": "Building additional road capacity may seem like an obvious solution to traffic congestion, but numerous studies have cast doubt on the _____ of that approach. Not only does additional road capacity often fail to relieve congestion, but it can also make traffic worse by encouraging more people to drive.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. Efficacy",
+            "B. Aesthetics",
+            "C. Originality",
+            "D. Popularity"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q2",
+        "passage": "Though many _____ studies of the effect of altitude on blood chemistry focus on people who live above sea level, researchers Suleiman A. Al-Sweedan and Moath Alhaj recently chose the novel path of focusing on people who live below sea level, in locations such as the California towns of Bombay Beach and Imperial.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. Erratic",
+            "B. Traditional",
+            "C. Meager",
+            "D. Random"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q3",
+        "passage": "Whatever the general attitude toward Spike Lee's 1992 film Malcolm X and Carl Franklin's 1995 film Devil in a Blue Dress when they were initially released, both films now tend to be regarded quite _____. In 2018, for example, critics for the New York Times praised the former as 'electrifying' and the latter as 'picture-perfect.'",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. Strangely",
+            "B. Neutrally",
+            "C. Skeptically",
+            "D. Favorably"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q4",
+        "passage": "At the turn of the twentieth century, Black residents of Richmond, Virginia, had few formal options for banking and other financial services. To _____ this situation, Maggie Lena Walker chartered the St. Luke Penny Savings Bank in 1903. The bank went on to provide home loans and savings opportunities to thousands of Black families over the following decades.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. Retain",
+            "B. Highlight",
+            "C. Prolong",
+            "D. Rectify"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q5",
+        "passage": "The Gleaners, painted in the realist style by Jean-François Millet, depicts peasants picking stray wheat from a field after the harvest. The realists' emphasis on accurately portraying the experiences of average working people was largely a rejection of the romantic style evident in many paintings by Horace Vernet, which instead _____ their subjects' beauty or heroism while hiding all imperfection.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. Counteract",
+            "B. Obscure",
+            "C. Rectify",
+            "D. Accentuate"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q6",
+        "passage": "The following text is from Maria Amparo Ruiz de Burton's 1885 novel The Squatter and the Don. Mercedes, being not quite seventeen, her grief at parting from Clarence was wild, vehement and all-absorbing. But she had been trained to obedience, and her battles with the spirit always took place after she carefully locked her bedroom door. Then Clarence was wildly apostrophized, and a torrent of tears relieved the overcharged, aching heart.",
+        "question": "Which choice best states the main purpose of the text?",
+        "choices": [
+            "A. It emphasizes Mercedes's extreme insecurity",
+            "B. It suggests that the magnitude of Mercedes's feelings are unusual for her age",
+            "C. It conveys how Mercedes handles her intense feelings about being separated from Clarence"
+        ],
+        "has-table": false
+    },
+    {
+        "id": "q7",
+        "passage": "In 2023 literary scholar Jeremy Douglass cautioned technology investors and enthusiasts who predict conventional books' ultimate displacement by newer forms of media. Douglass observed that the concept of an 'interactive' text is much older than technologists assume, extending back to the first time readers scratched notes into a text's margins. In addition, newer media, such as video games, haven't replaced older forms of entertainment, such as comic books, but rather exist alongside them. Douglass believes that rather than supplanting books, technology is simply making new forms of expression possible.",
+        "question": null,
+        "choices": [],
+        "has-table": false
+    }
+]

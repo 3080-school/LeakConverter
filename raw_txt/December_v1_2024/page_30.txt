@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q3",
+        "passage": "The fossil remains of the individual known as Misliya-1, discovered in Israel in 2002, can help paleoanthropologists not only _____ steps in the evolution of hominids but also illuminate the Pleistocene epoch generally, revealing important details about the time in which Misliya-1 lived.",
+        "question": "Which choice completes the text with the most logical and precise word or phrase?",
+        "choices": [
+            "A. exploit",
+            "B. yield",
+            "C. prioritize",
+            "D. discern"
+        ],
+        "has-table": false
+    }
+]
+```

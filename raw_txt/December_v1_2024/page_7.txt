@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q7",
+        "passage": "The following text is adapted from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” The Countess Czerlaski is a newcomer to the town of Milby. I am by no means sure that if the good people of Milby had known the truth about the Countess Czerlaski, they would not have been considerably disappointed to find that it was very far from being as bad as they imagined. Nice distinctions are troublesome. It is so much easier to make up your mind that your neighbour is good for nothing, than to enter into all the circumstances that would oblige you to modify that opinion.",
+        "question": "Which choice best states the main purpose of the text?",
+        "choices": [
+            "A. To offer commentary on a human foible that may account for why the people of Milby view the Countess Czerlaski as they do",
+            "B. To speculate on the circumstances under which the unfavorable opinion of the Countess Czerlaski that is held by the people of Milby could be improved",
+            "C. To explain why the people of Milby are somewhat correct to reproach the Countess Czerlaski for her misdeeds",
+            "D. To engage the reader’s compassion for both the Countess Czerlaski and the people of Milby by detailing their different viewpoints"
+        ],
+        "has-table": false
+    }
+]
+```

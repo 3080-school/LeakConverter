@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q14",
+        "passage": "Arthurian legends (tales related to the character of King Arthur) derive from many often contradictory sources, such as Annales Cambriae, composed around 970, and Tom a Lincoln from around 1607. Sir Thomas Malory's 15th-century text Le Morte d’Arthur was an attempt to compile these stories into a coherent narrative. Many of Malory’s sources derive from Geoffrey of Monmouth’s History of the Kings of Britain, written in the 1130s. While neither History nor any works that predate it mention Arthur’s famous Round Table at which his knights assembled, Le Morte d’Arthur does, suggesting that",
+        "question": "Which choice most logically completes the text?",
+        "choices": [
+            "A. when a version of an Arthurian legend contradicted the version in History, Malory preferred to include Geoffrey of Monmouth’s version in Le Morte d’Arthur.",
+            "B. Le Morte d’Arthur is more historically accurate than History, because Tom a Lincoln had not been written when Geoffrey of Monmouth was writing his work.",
+            "C. Geoffrey of Monmouth’s accounts of Arthurian legends in History are more similar overall in content to the accounts in Tom a Lincoln than they are to the accounts in Le Morte d’Arthur.",
+            "D. Malory encountered the Round Table in a source that Geoffrey of Monmouth was not familiar with when writing his History."
+        ],
+        "has-table": false
+    }
+]
+```

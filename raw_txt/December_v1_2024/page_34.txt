@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q7",
+        "passage": "Text 1\nIn separate studies, Stephen Meding and Robert J. Zasoski and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Meding and Zasoski excluded all pathways other than the CMN by using barriers to keep the plants’ root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues’ study did not take.\n\nText 2\nMeding and Zasoski took the necessary precaution of separating the plants’ root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers’ experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.",
+        "question": "Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement?",
+        "choices": [
+            "A. The barriers used in Meding and Zasoski’s study effectively excluded root-to-root transmission of nutrients.",
+            "B. A barrier that is impervious to both roots and fungal strands is necessary to evaluate nutrient transfer via a CMN.",
+            "C. Excluding root-to-root transfer of nutrients between plants is sufficient to ensure that any observed nutrient transfer must involve a CMN.",
+            "D. He and colleagues’ study did not find convincing evidence of nutrient transfer between individual plants."
+        ],
+        "has-table": false
+    }
+]
+```

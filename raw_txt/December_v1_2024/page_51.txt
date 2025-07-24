@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "id": "q24",
+        "passage": "On August 5, 1938, aviator Douglas Corrigan received a ticker-tape parade in New York City in recognition of his transatlantic flight. Of the 206 ticker-tape parades held between 1886 and 2022, a number were for achievements in aviation.",
+        "question": "Which choice completes the text with the most logical transition?",
+        "choices": [
+            "A. In addition,",
+            "B. Therefore,",
+            "C. Indeed,",
+            "D. Nevertheless,"
+        ],
+        "has-table": false
+    }
+]
+```
