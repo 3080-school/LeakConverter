@@ -7,7 +7,7 @@ from PIL import Image
 from pdf2image import convert_from_path
 import openai
 
-openai.api_key = "***REMOVED***proj-aNwKecAWmlakLc34yIaF8YgIGc3gwmGSPXfBwrE3vsuWNwTkOsu4XMkyjwUwMf2YeTCOiEavEST3BlbkFJhbuZujnJS5gpbKODy7oXg6eR7F9ww1XhQ9fkM80utHdCE_tJ520NfzAcIVQMydpHIJCPNAVUYA"  # твой ключ
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def image_to_base64(img: Image.Image):
     buffered = BytesIO()
