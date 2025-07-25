@@ -214,7 +214,7 @@
     "choices": [
       "A. century,",
       "B. century that",
-      "C. century.",
+      "C. century",
       "D. century, but"
     ],
     "has-table": false,
@@ -227,8 +227,8 @@
     "choices": [
       "A. Smith:",
       "B. Smith,",
-      "C. Smith.",
-      "D. Smith"
+      "C. Smith",
+      "D. Smith——"
     ],
     "has-table": false,
     "page": 18
@@ -252,7 +252,7 @@
     "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "choices": [
       "A. surface, however;",
-      "B. surface, however",
+      "B. surface, however,",
       "C. surface: however,",
       "D. surface. However,"
     ],
@@ -300,7 +300,7 @@
   },
   {
     "id": "q24",
-    "passage": "While researching a topic, a student has taken the following notes:\n\nLighthouses send out crucial light signals to help ships and other watercraft navigate at night.\nBefore automation, lighthouses were run by lighthouse keepers.\nBetsy Morrow Humphrey was the lighthouse keeper at Monhegan Island Light in Maine.\nShe held this position from 1862 to 1880.\nThelma Austin was the lighthouse keeper at Point Fermin Light in California.\nShe held this position from 1925 to 1941.",
+    "passage": "While researching a topic, a student has taken the following notes:\n\n • Lighthouses send out crucial light signals to help ships and other watercraft navigate at night.\n • Before automation, lighthouses were run by lighthouse keepers.\n • Betsy Morrow Humphrey was the lighthouse keeper at Monhegan Island Light in Maine.\n • She held this position from 1862 to 1880.\n • Thelma Austin was the lighthouse keeper at Point Fermin Light in California.\n • She held this position from 1925 to 1941.",
     "question": "The student wants to emphasize a difference between the two lighthouse keepers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
     "choices": [
       "A. As the lighthouse keeper at Point Fermin Light, Thelma Austin helped watercraft navigate at night.",
@@ -313,7 +313,7 @@
   },
   {
     "id": "q25",
-    "passage": "While researching a topic, a student has taken the following notes: If a moon orbiting a planet comes close enough to that planet, tidal forces can cause the moon to break apart. In a 2022 study, researchers proposed that Saturn was once orbited by a large moon they named Chrysalis. Their simulations indicated that Chrysalis would likely have come very close to Saturn around 160 million years ago. At that distance, Chrysalis would have been broken apart by tidal forces. The researchers hypothesized that the resulting debris formed Saturn’s rings.",
+    "passage": "While researching a topic, a student has taken the following notes:\n\n • If a moon orbiting a planet comes close enough to that planet, tidal forces can cause the moon to break apart.\n • In a 2022 study, researchers proposed that Saturn was once orbited by a large moon they named Chrysalis.\n • Their simulations indicated that Chrysalis would likely have come very close to Saturn around 160 million years ago.\n • At that distance, Chrysalis would have been broken apart by tidal forces.\n • The researchers hypothesized that the resulting debris formed Saturn’s rings.",
     "question": "The student wants to recount the sequence of events proposed by the researchers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
     "choices": [
       "A. According to researchers’ simulations, debris from Saturn’s rings would likely have caused Chrysalis—a large moon orbiting Saturn—to break apart around 160 million years ago.",
@@ -326,7 +326,7 @@
   },
   {
     "id": "q26",
-    "passage": "Birds of Northern South America is an identification guidebook by ornithologists Robin Restall, Clemencia Rodner, and Miguel Lentino.\nIt lists the thirty-five hummingbird species found in Suriname.\nThe green-throated mango is a large hummingbird found in Suriname.\nIt is identifiable by its green throat and its long, black, curved bill.\nThe horned sungem is a medium-sized hummingbird found in Suriname.\nIt is identifiable by its distinctive multicolored, tufted crown and its short, black, straight bill.",
+    "passage": "While researching a topic, a student has taken the following notes:\n\n • Birds of Northern South America is an identification guidebook by ornithologists Robin Restall, Clemencia Rodner, and Miguel Lentino.\n • It lists the thirty-five hummingbird species found in Suriname.\n • The green-throated mango is a large hummingbird found in Suriname.\n • It is identifiable by its green throat and its long, black, curved bill.\n • The horned sungem is a medium-sized hummingbird found in Suriname.\n • It is identifiable by its distinctive multicolored, tufted crown and its short, black, straight bill.",
     "question": "Which choice most effectively uses information from the given sentences to emphasize a similarity between the two birds?",
     "choices": [
       "A. Birds of Northern South America is an expertly compiled guidebook by ornithologists Robin Restall, Clemencia Rodner, and Miguel Lentino.",
@@ -339,7 +339,7 @@
   },
   {
     "id": "q27",
-    "passage": "While researching a topic, a student has taken the following notes:\n\n- Little is known about the life of Wong Fei-hung (1847-1925).\n- He was born near Foshan, China, and gained local recognition as a physician and Hung Ga (also known as Hung Gar) Kung Fu master.\n- He achieved many incredible martial arts feats—some confirmed and some rumored.\n- He has become an internationally known folk hero thanks to his depiction in over a hundred films, television shows, and other media.\n- In the 1991 film Once Upon a Time in China, actor Jet Li portrays Wong Fei-hung using superhuman kung fu abilities to save his community.",
+    "passage": "While researching a topic, a student has taken the following notes:\n\n • Little is known about the life of Wong Fei-hung (1847-1925).\n • He was born near Foshan, China, and gained local recognition as a physician and Hung Ga (also known as Hung Gar) Kung Fu master.\n • He achieved many incredible martial arts feats—some confirmed and some rumored.\n • He has become an internationally known folk hero thanks to his depiction in over a hundred films, television shows, and other media.\n • In the 1991 film Once Upon a Time in China, actor Jet Li portrays Wong Fei-hung using superhuman kung fu abilities to save his community.",
     "question": "The student wants to emphasize the effect media had on building Wong Fei-hung’s legacy. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
     "choices": [
       "A. Thanks to his depiction in over a hundred pieces of media, Wong Fei-hung was locally known as a successful physician and Hung Ga Kung Fu master.",
@@ -521,7 +521,7 @@
   },
   {
     "id": "q41",
-    "passage": "Arthurian legends (tales related to the character of King Arthur) derive from many often contradictory sources, such as Annales Cambriae, composed around 970, and Tom a Lincoln from around 1607. Sir Thomas Malory's 15th-century text Le Morte d’Arthur was an attempt to compile these stories into a coherent narrative. Many of Malory’s sources derive from Geoffrey of Monmouth’s History of the Kings of Britain, written in the 1130s. While neither History nor any works that predate it mention Arthur’s famous Round Table at which his knights assembled, Le Morte d’Arthur does, suggesting that",
+    "passage": "Arthurian legends (tales related to the character of King Arthur) derive from many often contradictory sources, such as Annales Cambriae, composed around 970, and Tom a Lincoln from around 1607. Sir Thomas Malory's 15th-century text Le Morte d’Arthur was an attempt to compile these stories into a coherent narrative. Many of Malory’s sources derive from Geoffrey of Monmouth’s History of the Kings of Britain, written in the 1130s. While neither History nor any works that predate it mention Arthur’s famous Round Table at which his knights assembled, Le Morte d’Arthur does, suggesting that _____",
     "question": "Which choice most logically completes the text?",
     "choices": [
       "A. when a version of an Arthurian legend contradicted the version in History, Malory preferred to include Geoffrey of Monmouth’s version in Le Morte d’Arthur.",
@@ -537,7 +537,7 @@
     "passage": "Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Kirsty Elizabeth McLaughlin and Hansjoerg P. Kunc found in a 2015 study of zebra cichlids. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of fish showed larger differences than studies of birds did, for every class of animals examined, there were individual studies showing differences well above the average for fish. Therefore, the results of the meta-analysis suggest that _____",
     "question": "Which choice most logically completes the text?",
     "choices": [
-      "A. the studies in the meta-analysis that examined fish were more likely than those that examined birds to specify whether the observed effects were experimental.",
+      "A. the studies in the meta-analysis that examined fish were more likely than those that examined birds to specify whether the observed effects were detrimental.",
       "B. the difference found in the study conducted by Kirsty Elizabeth McLaughlin and Hansjoerg P. Kunc was likely larger than the average difference for studies of zebra cichlids included in the meta-analysis.",
       "C. some studies of birds found larger effects of exposure to anthropogenic noise than some studies of fish did.",
       "D. the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for birds than they are for fish."
@@ -589,10 +589,10 @@
     "passage": "Though he would go on to work with many respected musicians, including Paul Hanson on his album Frolic in the Land of Plenty, American __________ may be best known for his time with Sugar Hill Records, where he helped craft the sound of early hip-hop music.",
     "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "choices": [
-      "A. drummer Dennis Chambers",
+      "A. drummer, Dennis Chambers",
       "B. drummer Dennis Chambers,",
       "C. drummer Dennis Chambers",
-      "D. drummer Dennis Chambers,"
+      "D. drummer, Dennis Chambers,"
     ],
     "has-table": false,
     "page": 46
@@ -602,10 +602,10 @@
     "passage": "Gretchen Legler's short essay on “sound,” a word referring to a large inlet or channel of a sea or ocean, is included in the collection Home Ground: A Guide to the American Landscape. The book wasn’t written solely by ________; other authors, such as Stephen Graham Jones and Barry Lopez, also contributed essays.",
     "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "choices": [
-      "A. Legler, however.",
-      "B. Legler; however.",
-      "C. Legler. However.",
-      "D. Legler however;"
+      "A. Legler, however,",
+      "B. Legler; however,",
+      "C. Legler. However,",
+      "D. Legler. however;"
     ],
     "has-table": false,
     "page": 47
@@ -651,7 +651,7 @@
   },
   {
     "id": "q51",
-    "passage": "On August 5, 1938, aviator Douglas Corrigan received a ticker-tape parade in New York City in recognition of his transatlantic flight. Of the 206 ticker-tape parades held between 1886 and 2022, a number were for achievements in aviation.",
+    "passage": "On August 5, 1938, aviator Douglas Corrigan received a ticker-tape parade in New York City in recognition of his transatlantic flight. Of the 206 ticker-tape parades held between 1886 and 2022, a number were for achievements in aviation. _____ Corrigan's parade was just one of 16 honoring pilots.",
     "question": "Which choice completes the text with the most logical transition?",
     "choices": [
       "A. In addition,",
@@ -664,7 +664,7 @@
   },
   {
     "id": "q52",
-    "passage": "While researching a topic, a student has taken the following notes:\n• The Bauhaus was an influential German art and design school founded in 1919 by Walter Gropius.\n• Gropius was the school's director from 1919 to 1928.\n• Hannes Meyer was its director from 1928 to 1930.\n• Ludwig Mies van der Rohe was its director from 1930 to 1933.\n• Stefan Wolpe was a composer who began attending the Bauhaus in 1923.\n• Iwao Yamawaki was a photographer and architect who began attending the Bauhaus in 1930.",
+    "passage": "While researching a topic, a student has taken the following notes:\n\n • The Bauhaus was an influential German art and design school founded in 1919 by Walter Gropius.\n • Gropius was the school's director from 1919 to 1928.\n • Hannes Meyer was its director from 1928 to 1930.\n • Ludwig Mies van der Rohe was its director from 1930 to 1933.\n • Stefan Wolpe was a composer who began attending the Bauhaus in 1923.\n • Iwao Yamawaki was a photographer and architect who began attending the Bauhaus in 1930.",
     "question": "The student wants to emphasize the order in which the two students attended the Bauhaus. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
     "choices": [
       "A. Walter Gropius founded the Bauhaus in 1919 and acted as its director until 1928, at which point Hannes Meyer succeeded him in the role.",
@@ -677,7 +677,7 @@
   },
   {
     "id": "q53",
-    "passage": "While researching a topic, a student has taken the following notes: \n• Generally, an object will heat up when twisted.\n• The twisting of an object is known as torsion.\n• A 2019 study led by Zunfeng Liu and Ray Baughman tested the torsional heating of various fibers.\n• When a 1-millimeter-thick sample of dimethicone fiber was twisted, its average surface temperature increased by 1.8°C.\n• When a 4-millimeter-thick sample of styrene-ethylene-butylene-styrene (SEBS) rubber fiber was twisted, its average surface temperature increased by 3.5°C.",
+    "passage": "While researching a topic, a student has taken the following notes:\n\n • Generally, an object will heat up when twisted.\n • The twisting of an object is known as torsion.\n • A 2019 study led by Zunfeng Liu and Ray Baughman tested the torsional heating of various fibers.\n • When a 1-millimeter-thick sample of dimethicone fiber was twisted, its average surface temperature increased by 1.8°C.\n • When a 4-millimeter-thick sample of styrene-ethylene-butylene-styrene (SEBS) rubber fiber was twisted, its average surface temperature increased by 3.5°C.",
     "question": "The student wants to contrast the two samples. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
     "choices": [
       "A. The SEBS rubber sample used in the 2019 study was thicker than the dimethicone sample.",
@@ -690,7 +690,7 @@
   },
   {
     "id": "q54",
-    "passage": "While researching a topic, a student has taken the following notes: • Element abundance is a relative measure of the amount of a chemical element in a given environment. • Abundance can be expressed as a mass fraction. • A mass fraction is the ratio of the total mass of an element to the combined mass of all elements in a given environment. • The mass fraction of iron (Fe) on Earth is 319,000 parts per million (ppm). • The mass fraction of strontium (Sr) on Earth is 13 ppm.",
+    "passage": "While researching a topic, a student has taken the following notes:\n\n • Element abundance is a relative measure of the amount of a chemical element in a given environment.\n • Abundance can be expressed as a mass fraction.\n • A mass fraction is the ratio of the total mass of an element to the combined mass of all elements in a given environment.\n • The mass fraction of iron (Fe) on Earth is 319,000 parts per million (ppm).\n • The mass fraction of strontium (Sr) on Earth is 13 ppm.",
     "question": "The student wants to specify the total mass of Earth's iron relative to that of all elements. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
     "choices": [
       "A. The mass fraction of iron on Earth is 319,000 ppm.",
