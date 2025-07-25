@@ -3,6 +3,8 @@ import os
 import json
 import re
 import sqlite3
+from flask import send_file
+
 
 app = Flask(__name__)
 app.secret_key = "e3f9a27f93519f8f65b47973c2b1a0f0c4d75a5c946fd7b64db36bbf3b3d8c17"
@@ -206,6 +208,11 @@ def map_questions_to_tables(questions):
 @app.route("/tables_cropped/<path:filename>")
 def table_image(filename):
     return send_from_directory(TABLE_DIR, filename)
+
+
+@app.route('/download-db')
+def download_db():
+    return send_file('users.db', as_attachment=True)
 
 
 if __name__ == "__main__":
