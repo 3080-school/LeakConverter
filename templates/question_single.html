@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Question - {{ display_num }}</title>
+  <title>Question {{ display_num }}</title>
   <style>
     body {
       font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
@@ -195,9 +195,17 @@
   <!-- jQuery for AJAX -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
-{% set module_offset = (q_number <= 27 and 0) or (q_number <= 54 and 27) or (q_number <= 76 and 54) or 76 %}
-{% set display_num = q_number - module_offset %}
 <body>
+{% if q_number <= 27 %}
+  {% set display_num = q_number %}
+{% elif q_number <= 54 %}
+  {% set display_num = q_number - 27 %}
+{% elif q_number <= 76 %}
+  {% set display_num = q_number - 54 %}
+{% else %}
+  {% set display_num = q_number - 76 %}
+{% endif %}
+
   <div class="header">Digital SAT Leak-Based Practice</div>
   <div class="subheader">
     {% if q_number <= 27 %}
