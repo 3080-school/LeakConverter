@@ -1,9 +1,8 @@
-from flask import Flask, render_template, request, redirect, url_for, session, send_from_directory
+from flask import Flask, render_template, request, redirect, url_for, session, send_from_directory, jsonify
 import os
 import json
 import re
 import psycopg2
-from flask import send_file, jsonify
 
 app = Flask(__name__)
 app.secret_key = "e3f9a27f93519f8f65b47973c2b1a0f0c4d75a5c946fd7b64db36bbf3b3d8c17"
@@ -40,7 +39,7 @@ def single_question(practice_id, q_number):
     questions.sort(key=lambda q: int(q["id"].replace("q", "")))
     question = next((q for q in questions if int(q["id"].replace("q", "")) == q_number), None)
     
-    if q_number == 55:
+    if (q_number == 55):
         return """
         <script>
             alert('Вы успешно сдали вербал! У вас есть 10 минут перерыва.');
@@ -57,13 +56,21 @@ def single_question(practice_id, q_number):
         if page_num:
             table_img = f"{practice_id}/cropped_page_{page_num}_table.png"
 
+    # для правильной передачи отмеченных/отвеченных
+    answers = session.get("answers", {})
+    marked = set(session.get("marked", []))
+
     if request.method == "POST":
         selected = request.form.get("answer")
         nav_action = request.form.get("nav_action", "stay")
 
-        # Сохраняем ответ
-        answers = session.get("answers", {}).copy()
-        answers[question["id"]] = selected
+        # Сохраняем ответ (None если пустой — тогда не засчитывается как "ответил")
+        answers = answers.copy()
+        if selected:
+            answers[question["id"]] = selected
+        else:
+            # если убрал выбор — удаляем ответ
+            answers.pop(question["id"], None)
         session["answers"] = answers
 
         # Обработка действий навигации
@@ -90,19 +97,20 @@ def single_question(practice_id, q_number):
             )
             cursor = conn.cursor()
 
+            # Замени ? на %s для psycopg2
             for qid, ans in session["answers"].items():
-                # для PostgreSQL замени ? на %s!
                 cursor.execute("""
                     INSERT INTO answers (username, practice_id, question_id, answer)
                     VALUES (%s, %s, %s, %s)
                     ON CONFLICT (username, practice_id, question_id)
-                    DO UPDATE SET answer = EXCLUDED.answer
+                    DO UPDATE SET answer=EXCLUDED.answer
                 """, (session["user_id"], practice_id, qid, ans))
             conn.commit()
             conn.close()
 
             session["answers"] = {}
 
+            # определим следующий модуль
             current_q_num = int(question["id"].replace("q", ""))
             next_module_start = None
             for m in modules:
@@ -116,10 +124,18 @@ def single_question(practice_id, q_number):
                
         return redirect(url_for("single_question", practice_id=practice_id, q_number=q_number))
 
-    # ---->>> вот здесь передаём отмеченные и отвечённые вопросы
+    # GET — отображаем
     saved_answer = session.get("answers", {}).get(question["id"])
-    answered_ids = set(session.get("answers", {}).keys())
-    marked_ids = set(session.get("marked", []))
+
+    # Собираем все qid в модуле
+    module_start = (q_number <= 27 and 1) or (q_number <= 54 and 28) or (q_number <= 76 and 55) or 77
+    module_end = (q_number <= 27 and 27) or (q_number <= 54 and 54) or (q_number <= 76 and 76) or 98
+    qids_in_module = ['q%d' % i for i in range(module_start, module_end+1)]
+
+    # answered_ids — только если не None/пусто
+    answered_ids = [qid for qid in qids_in_module if answers.get(qid, '') not in [None, '']]
+    marked_ids = [qid for qid in qids_in_module if qid in marked]
+
     return render_template("question_single.html",
                            question=question,
                            q_number=q_number,
@@ -127,8 +143,7 @@ def single_question(practice_id, q_number):
                            practice_id=practice_id,
                            selected=saved_answer,
                            answered_ids=answered_ids,
-                           marked_ids=marked_ids
-                           )
+                           marked_ids=marked_ids)
 
 @app.route('/toggle_mark', methods=['POST'])
 def toggle_mark():
@@ -172,7 +187,7 @@ def login():
         conn.close()
 
         if user:
-            session.clear()  # ОБЯЗАТЕЛЬНО ОЧИЩАЕМ!
+            session.clear()
             session["user_id"] = user_id
             return redirect(url_for("practice_list"))
         else:
@@ -235,7 +250,7 @@ def table_image(filename):
 
 @app.route('/download-db')
 def download_db():
-    return send_file('leakconverter_db.db', as_attachment=True)
+    return send_from_directory('.', 'leakconverter_db.db', as_attachment=True)
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
