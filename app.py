@@ -99,12 +99,14 @@ def single_question(practice_id, q_number):
 
             # Замени ? на %s для psycopg2
             for qid, ans in session["answers"].items():
+                q_num = int(qid.replace("q", ""))  # <--- вот тут!
                 cursor.execute("""
                     INSERT INTO answers (username, practice_id, question_id, answer)
                     VALUES (%s, %s, %s, %s)
                     ON CONFLICT (username, practice_id, question_id)
                     DO UPDATE SET answer=EXCLUDED.answer
-                """, (session["user_id"], practice_id, qid, ans))
+                """, (session["user_id"], practice_id, q_num, ans))
+                
             conn.commit()
             conn.close()
 
