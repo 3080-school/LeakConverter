@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, redirect, url_for, session, s
 import os
 import json
 import re
-import sqlite3
+import psycopg2
 from flask import send_file
 
 
@@ -88,7 +88,14 @@ def single_question(practice_id, q_number):
         elif nav_action == "submit":
         # ✅ Сохраняем только ответы этого пользователя и практики,
         # заменяя старые (без дублей благодаря UNIQUE/PRIMARY KEY)
-            conn = sqlite3.connect("users.db")
+            import psycopg2
+            conn = psycopg2.connect(
+                dbname='leakconverter_db',
+                user='leakconverter_db_user',
+                password='Sv7BeHxCht4NvZdKXsxwr9z55bEpxpCM',
+                host='dpg-d224aladbo4c73eqcm6g-a',
+                port='5432'
+            )
             cursor = conn.cursor()
 
             # ПЕРЕД ЭТИМ убедись, что в БД:
@@ -141,7 +148,14 @@ def login():
         if not user_id or not password:
             return "Missing user ID or password", 400
 
-        conn = sqlite3.connect("users.db")
+        import psycopg2
+        conn = psycopg2.connect(
+            dbname='leakconverter_db',
+            user='leakconverter_db_user',
+            password='Sv7BeHxCht4NvZdKXsxwr9z55bEpxpCM',
+            host='dpg-d224aladbo4c73eqcm6g-a',
+            port='5432'
+        )
         c = conn.cursor()
         c.execute("SELECT * FROM users WHERE username = ? AND password = ?", (user_id, password))
         user = c.fetchone()
