@@ -3,8 +3,7 @@ import os
 import json
 import re
 import psycopg2
-from flask import send_file
-
+from flask import send_file, jsonify
 
 app = Flask(__name__)
 app.secret_key = "e3f9a27f93519f8f65b47973c2b1a0f0c4d75a5c946fd7b64db36bbf3b3d8c17"
@@ -32,8 +31,6 @@ def extract_page_number(name):
 def debug_session():
     return session.get("answers", {})
 
-
-
 @app.route("/practice/<practice_id>/question/<int:q_number>", methods=["GET", "POST"])
 def single_question(practice_id, q_number):
     if "user_id" not in session:
@@ -43,7 +40,7 @@ def single_question(practice_id, q_number):
     questions.sort(key=lambda q: int(q["id"].replace("q", "")))
     question = next((q for q in questions if int(q["id"].replace("q", "")) == q_number), None)
     
-    if (q_number == 55):
+    if q_number == 55:
         return """
         <script>
             alert('Вы успешно сдали вербал! У вас есть 10 минут перерыва.');
@@ -56,11 +53,9 @@ def single_question(practice_id, q_number):
 
     table_img = None
     if question.get("has-table"):
-    # предполагаем, что JSON всегда содержит "page" (номер страницы)
         page_num = question.get("page")
         if page_num:
             table_img = f"{practice_id}/cropped_page_{page_num}_table.png"
-
 
     if request.method == "POST":
         selected = request.form.get("answer")
@@ -86,9 +81,6 @@ def single_question(practice_id, q_number):
             return redirect(url_for("single_question", practice_id=practice_id, q_number=int(nav_action)))
 
         elif nav_action == "submit":
-        # ✅ Сохраняем только ответы этого пользователя и практики,
-        # заменяя старые (без дублей благодаря UNIQUE/PRIMARY KEY)
-            import psycopg2
             conn = psycopg2.connect(
                 dbname='leakconverter_db',
                 user='leakconverter_db_user',
@@ -98,20 +90,19 @@ def single_question(practice_id, q_number):
             )
             cursor = conn.cursor()
 
-            # ПЕРЕД ЭТИМ убедись, что в БД:
-            # PRIMARY KEY (username, practice_id, question_id)
             for qid, ans in session["answers"].items():
+                # для PostgreSQL замени ? на %s!
                 cursor.execute("""
-                    INSERT OR REPLACE INTO answers (username, practice_id, question_id, answer)
-                    VALUES (?, ?, ?, ?)
+                    INSERT INTO answers (username, practice_id, question_id, answer)
+                    VALUES (%s, %s, %s, %s)
+                    ON CONFLICT (username, practice_id, question_id)
+                    DO UPDATE SET answer = EXCLUDED.answer
                 """, (session["user_id"], practice_id, qid, ans))
             conn.commit()
             conn.close()
 
-            # очищаем ответы из сессии (иначе второй модуль опять всё пошлёт)
             session["answers"] = {}
 
-            # определим текущий модуль по номеру вопроса
             current_q_num = int(question["id"].replace("q", ""))
             next_module_start = None
             for m in modules:
@@ -125,15 +116,35 @@ def single_question(practice_id, q_number):
                
         return redirect(url_for("single_question", practice_id=practice_id, q_number=q_number))
 
-    # GET — отображаем
+    # ---->>> вот здесь передаём отмеченные и отвечённые вопросы
     saved_answer = session.get("answers", {}).get(question["id"])
+    answered_ids = set(session.get("answers", {}).keys())
+    marked_ids = set(session.get("marked", []))
     return render_template("question_single.html",
                            question=question,
                            q_number=q_number,
                            table_img=table_img,
                            practice_id=practice_id,
-                           selected=saved_answer)
+                           selected=saved_answer,
+                           answered_ids=answered_ids,
+                           marked_ids=marked_ids
+                           )
 
+@app.route('/toggle_mark', methods=['POST'])
+def toggle_mark():
+    qid = request.json.get('qid')
+    if not qid:
+        return jsonify({"error": "No question id"}), 400
+
+    marked = set(session.get("marked", []))
+    if qid in marked:
+        marked.remove(qid)
+        marked_status = False
+    else:
+        marked.add(qid)
+        marked_status = True
+    session["marked"] = list(marked)
+    return jsonify({"marked": marked_status})
 
 @app.route("/")
 def home():
@@ -148,7 +159,6 @@ def login():
         if not user_id or not password:
             return "Missing user ID or password", 400
 
-        import psycopg2
         conn = psycopg2.connect(
             dbname='leakconverter_db',
             user='leakconverter_db_user',
@@ -157,12 +167,12 @@ def login():
             port='5432'
         )
         c = conn.cursor()
-        c.execute("SELECT * FROM users WHERE username = ? AND password = ?", (user_id, password))
+        c.execute("SELECT * FROM users WHERE username = %s AND password = %s", (user_id, password))
         user = c.fetchone()
         conn.close()
 
         if user:
-            session.clear()  # <<<<<<  ДОБАВЬ ЭТУ СТРОКУ! ОЧИСТКА!
+            session.clear()  # ОБЯЗАТЕЛЬНО ОЧИЩАЕМ!
             session["user_id"] = user_id
             return redirect(url_for("practice_list"))
         else:
@@ -223,12 +233,9 @@ def map_questions_to_tables(questions):
 def table_image(filename):
     return send_from_directory(TABLE_DIR, filename)
 
-
 @app.route('/download-db')
 def download_db():
-    return send_file('users.db', as_attachment=True)
-
+    return send_file('leakconverter_db.db', as_attachment=True)
 
 if __name__ == "__main__":
     app.run()
-
