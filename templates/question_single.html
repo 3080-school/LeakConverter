@@ -232,7 +232,11 @@
       {% endif %}
       {% if question.passage %}
         <div class="passage">
-          {{ question.passage | replace('\n', '<br>') | safe }}
+          {{ question.passage
+            | replace('<underlined>', '<span style="text-decoration: underline;">')
+            | replace('</underlined>', '</span>')
+            | replace('\n', '<br>')
+            | safe }}
         </div>
       {% endif %}
     </div>
