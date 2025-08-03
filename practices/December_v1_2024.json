@@ -417,7 +417,7 @@
   },
   {
     "id": "q33",
-    "passage": "Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria Brevibacillus borstelensis and Lactococcus lactis—it has rarely been observed among eukaryotes (multicellular organisms). However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.",
+    "passage": "Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. <underlined>While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria Brevibacillus borstelensis and Lactococcus lactis—it has rarely been observed among eukaryotes (multicellular organisms).</underlined> However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.",
     "question": "Which choice best states the function of the underlined sentence in the text as a whole?",
     "choices": [
       "A. It indicates a distinction between the mechanics of two kinds of biological processes.",
@@ -599,20 +599,20 @@
   },
   {
     "id": "q47",
-    "passage": "Gretchen Legler's short essay on “sound,” a word referring to a large inlet or channel of a sea or ocean, is included in the collection Home Ground: A Guide to the American Landscape. The book wasn’t written solely by ________; other authors, such as Stephen Graham Jones and Barry Lopez, also contributed essays.",
+    "passage": "Gretchen Legler's short essay on “sound,” a word referring to a large inlet or channel of a sea or ocean, is included in the collection Home Ground: A Guide to the American Landscape. The book wasn’t written solely by _______ other authors, such as Stephen Graham Jones and Barry Lopez, also contributed essays.",
     "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "choices": [
       "A. Legler, however,",
       "B. Legler; however,",
       "C. Legler. However,",
-      "D. Legler. however;"
+      "D. Legler, however;"
     ],
     "has-table": false,
     "page": 47
   },
   {
     "id": "q48",
-    "passage": "The Organisation for Economic Co-operation and Development (OECD) tracks comparative price list data for its thirty-eight member countries. According to this data, in July 2021, a “basket” of goods and services priced at 100 US dollars (USD) in the United States would have cost 66 USD in fellow OECD member",
+    "passage": "The Organisation for Economic Co-operation and Development (OECD) tracks comparative price list data for its thirty-eight member countries. According to this data, in July 2021, a “basket” of goods and services priced at 100 US dollars (USD) in the United States would have cost 66 USD in fellow OECD member ________",
     "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "choices": [
       "A. nation Latvia.",
