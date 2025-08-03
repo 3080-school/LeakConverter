@@ -255,4 +255,4 @@ def download_db():
     return send_from_directory('.', 'leakconverter_db.db', as_attachment=True)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 10000)))
