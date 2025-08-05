@@ -1,7 +1,7 @@
 [
   {
     "id": "q1",
-    "passage": "The following text is adapted from Mary Seacole’s 1857 autobiography Wonderful Adventures of Mrs. Seacole in Many Lands.\n\nThat journey across the Isthmus [of Panama], insignificant in distance as it was, was by no means an easy one. It seemed as if nature had determined to throw every conceivable obstacle in the way of those who should seek to join the two great oceans of the world.",
+    "passage": "The following text is adapted from Mary Seacole’s 1857 autobiography <i>Wonderful Adventures of Mrs. Seacole in Many Lands.</i>\nThat journey across the Isthmus [of Panama], insignificant in distance as it was, was by no means an easy one. It seemed as if nature had determined to throw every <underlined>conceivable</underlined> obstacle in the way of those who should seek to join the two great oceans of the world.",
     "question": "As used in the text, what does the word 'conceivable' most nearly mean?",
     "choices": [
       "A. Imaginable",
@@ -27,7 +27,7 @@
   },
   {
     "id": "q3",
-    "passage": "The following text is adapted from the 1895 poem “Ojistoh” by Emily Pauline Johnson, a Kanienʼkehá:ka (Mohawk) writer also known as Tekahionwake.\n\nI am Ojistoh, I am she, the wife\nOf him whose name breathes bravery and life\nAnd courage to the tribe who calls him chief.\nI am Ojistoh, his white star, and he\nIs land, and lake, and sky—and soul to me.",
+    "passage": "The following text is adapted from the 1895 poem “Ojistoh” by Emily Pauline Johnson, a Kanienʼkehá:ka (Mohawk) writer also known as Tekahionwake.\n\nI am Ojistoh, I am she, the wife\nOf him whose name <underlined>breathes</underlined> bravery and life\nAnd courage to the tribe who calls him chief.\nI am Ojistoh, his white star, and he\nIs land, and lake, and sky—and soul to me.",
     "question": "As used in the text, what does the word \"breathes\" most nearly mean?",
     "choices": [
       "A. Imparts",
@@ -53,7 +53,7 @@
   },
   {
     "id": "q5",
-    "passage": "Though John Crowley, author of Engine Summer, is perhaps not as well known as the most commercially successful American writers of the past fifty years, influential figures have championed his work, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, Bloom praises the novel’s adroit blend of what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big demonstrates that a work can be both.",
+    "passage": "Though John Crowley, author of <i>Engine Summer</i>, is perhaps not as well known as the most commercially successful American writers of the past fifty years, influential figures have championed his work, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book <i>Little, Big</i>, Bloom praises the novel’s adroit blend of what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), <i>Little, Big</i> demonstrates that a work can be both.",
     "question": "Which choice best states the main purpose of the text?",
     "choices": [
       "A. To argue that all writing must be classified as belonging to one of two categories",
@@ -79,7 +79,7 @@
   },
   {
     "id": "q7",
-    "passage": "The following text is adapted from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog). We [people] are creatures of the sun. We love light and life. That is why we crowd into the towns and cities, and the country grows more and more deserted every year. In the sunlight—in the daytime, when Nature is alive and busy all around us, we like the open hill-sides and the deep woods well enough: but in the night, when our Mother Earth has gone to sleep, and left us waking, oh! the world seems so lonesome, and we get frightened, like children in a silent house. Then we sit and sob, and long for the gas-lit streets, and the sound of human voices, and the answering throb of human life.",
+    "passage": "The following text is adapted from Jerome K. Jerome's 1889 novel <i>Three Men in a Boat (To Say Nothing of the Dog)</i>.\n We [people] are creatures of the sun. We love light and life. That is why we crowd into the towns and cities, and the country grows more and more deserted every year. In the sunlight—in the daytime, when Nature is alive and busy all around us, we like the open hill-sides and the deep woods well enough: but in the night, when our Mother Earth has gone to sleep, and left us waking, oh! the world seems so lonesome, and we get frightened, like children in a silent house. Then we sit and sob, and long for the gas-lit streets, and the sound of human voices, and the answering throb of human life.",
     "question": "Which choice best states the main purpose of the text?",
     "choices": [
       "A. To convey that crowded areas can cause people to experience feelings of sadness",
@@ -118,7 +118,7 @@
   },
   {
     "id": "q10",
-    "passage": "In an extensive review of existing literature, Léna de Framond and team cataloged the prevalence of broken-wing display- -a defensive behavior observed in Haematopus longirostris (pied oystercatcher) and many other species throughout the Aves class. Documentation of the display in 285 species across 52 families suggests the behavior likely evolved independently multiple times, prompting the team to consider ecological and life-history characteristics with hypothesized associations to the behavior's emergence, including traits related to reproduction investment and future reproduction potential. Based on their review of those traits, the team concluded that",
+    "passage": "In an extensive review of existing literature, Léna de Framond and team cataloged the prevalence of broken-wing display- -a defensive behavior observed in <i>Haematopus longirostris</i> (pied oystercatcher) and many other species throughout the Aves class. Documentation of the display in 285 species across 52 families suggests the behavior likely evolved independently multiple times, prompting the team to consider ecological and life-history characteristics with hypothesized associations to the behavior's emergence, including traits related to reproduction investment and future reproduction potential. Based on their review of those traits, the team concluded that",
     "question": "Which choice most effectively uses data from the table to complete the conclusion?",
     "choices": [
       "A. capacity for multiple broods, number of parental incubators, and incubation duration are equally associated with the use of broken-wing display.",
@@ -134,18 +134,18 @@
     "passage": "Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for medium-sized vortices, fish with wide heads would be least able to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, wider-headed fish will be less likely than narrower-headed fish to detect obstructions.",
     "question": "Which finding, if true, would most directly support the second research team’s hypothesis?",
     "choices": [
-      "A. A study using obstructions that created medium-sized vortices in low-visibility conditions found that some specimens of dusky smooth-hound (Mustelus canis), which has a relatively narrow head, bumped into the obstructions more often than other specimens of the same fish did.",
-      "B. A study using obstructions that created medium-sized vortices in low-visibility conditions found that the wider-headed bristlemouth (Chaetostoma yurubiense) bumped into obstructions more often than the narrower-headed dusky smooth-hound (Mustelus canis) did.",
-      "C. A study using obstructions that created medium-sized vortices in low-visibility conditions found that the narrower-headed dusky smooth-hound (Mustelus canis) bumped into the obstructions just as often as the wider-headed bristlemouth (Chaetostoma yurubiense) did.",
-      "D. A study using obstructions that created medium-sized vortices in low-visibility conditions found that the bristlemouth (Chaetostoma yurubiense), which has a relatively wide head, bumped into more than half of the obstructions."
+      "A. A study using obstructions that created medium-sized vortices in low-visibility conditions found that some specimens of dusky smooth-hound (<i>Mustelus canis</i>), which has a relatively narrow head, bumped into the obstructions more often than other specimens of the same fish did.",
+      "B. A study using obstructions that created medium-sized vortices in low-visibility conditions found that the wider-headed bristlemouth (<i>Chaetostoma yurubiense</i>) bumped into obstructions more often than the narrower-headed dusky smooth-hound (Mustelus canis) did.",
+      "C. A study using obstructions that created medium-sized vortices in low-visibility conditions found that the narrower-headed dusky smooth-hound (<i>Mustelus canis</i>) bumped into the obstructions just as often as the wider-headed bristlemouth (Chaetostoma yurubiense) did.",
+      "D. A study using obstructions that created medium-sized vortices in low-visibility conditions found that the bristlemouth (<i>Chaetostoma yurubiense</i>), which has a relatively wide head, bumped into more than half of the obstructions."
     ],
     "has-table": false,
     "page": 11
   },
   {
     "id": "q12",
-    "passage": "Cane is a 1923 novel by Jean Toomer. In one portion of the novel, Toomer establishes a contrast between the narrator’s attitude toward life and the attitude of the narrator’s love interest, Avey, writing, _____",
-    "question": "Which quotation from Cane most effectively illustrates the claim?",
+    "passage": "<i>Cane</i> is a 1923 novel by Jean Toomer. In one portion of the novel, Toomer establishes a contrast between the narrator’s attitude toward life and the attitude of the narrator’s love interest, Avey, writing, _____",
+    "question": "Which quotation from <i>Cane</i> most effectively illustrates the claim?",
     "choices": [
       "A. “Avey was as silent as those great trees whose tops we looked down upon. She has always been like that. At least, to me.”",
       "B. “A band in one of the buildings a fair distance off was playing a march. I wished they would stop. Their playing was like a tin spoon in one’s mouth.”",
@@ -170,7 +170,7 @@
   },
   {
     "id": "q14",
-    "passage": "Works by Rafael Soriano and Rupert García were featured in the Smithsonian American Art Museum’s exhibition Our America: The Latino Presence in American Art. This 2013 exhibition celebrated the diverse achievements ____ artists of Latin American descent.",
+    "passage": "Works by Rafael Soriano and Rupert García were featured in the Smithsonian American Art Museum’s exhibition <i>Our America: The Latino Presence in American Art</i>. This 2013 exhibition celebrated the diverse achievements ____ artists of Latin American descent.",
     "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "choices": [
       "A. of;",
@@ -183,7 +183,7 @@
   },
   {
     "id": "q15",
-    "passage": "On December 2, 1992, the space shuttle Discovery blasted off into space, commencing Mission ________ seven days and seven hours, the mission ended when the shuttle landed at Edwards Air Force Base in California.",
+    "passage": "On December 2, 1992, the space shuttle <i>Discovery</i> blasted off into space, commencing Mission ________ seven days and seven hours, the mission ended when the shuttle landed at Edwards Air Force Base in California.",
     "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "choices": [
       "A. STS-53, lasting",
@@ -261,13 +261,13 @@
   },
   {
     "id": "q21",
-    "passage": "While researching a topic, a student has taken the following notes:\n- Dinosaur fossil specimens can be found at science museums all over the world.\n- Many dinosaur fossil specimens are given nicknames.\n- The Great Plains Dinosaur Museum and Field Station in Malta, Montana, houses a dinosaur fossil specimen nicknamed Roberta.\n- Roberta lived in the Late Cretaceous period, which ended more than 65 million years ago.\n- It is a member of the genus Brachylophosaurus.",
+    "passage": "While researching a topic, a student has taken the following notes:\n- Dinosaur fossil specimens can be found at science museums all over the world.\n- Many dinosaur fossil specimens are given nicknames.\n- The Great Plains Dinosaur Museum and Field Station in Malta, Montana, houses a dinosaur fossil specimen nicknamed Roberta.\n- Roberta lived in the Late Cretaceous period, which ended more than 65 million years ago.\n- It is a member of the genus <i>Brachylophosaurus</i>.",
     "question": "The student wants to provide an example of a dinosaur fossil specimen’s nickname. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
     "choices": [
       "A. Nicknames are given to many dinosaur fossil specimens, including one housed at a museum in Malta, Montana.",
       "B. Dinosaur fossil specimens can be found at museums all over the world, and many of these specimens are given nicknames.",
-      "C. Roberta is the nickname of a Brachylophosaurus fossil specimen housed at the Great Plains Dinosaur Museum and Field Station in Malta, Montana.",
-      "D. A Brachylophosaurus fossil specimen from the Late Cretaceous period, which ended more than 65 million years ago; is housed at the Great Plains Dinosaur Museum and Field Station."
+      "C. Roberta is the nickname of a <i>Brachylophosaurus</i> fossil specimen housed at the Great Plains Dinosaur Museum and Field Station in Malta, Montana.",
+      "D. A <i>Brachylophosaurus</i> fossil specimen from the Late Cretaceous period, which ended more than 65 million years ago; is housed at the Great Plains Dinosaur Museum and Field Station."
     ],
     "has-table": false,
     "page": 21

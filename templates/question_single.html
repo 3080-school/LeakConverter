@@ -235,6 +235,8 @@
           {{ question.passage
             | replace('<underlined>', '<span style="text-decoration: underline;">')
             | replace('</underlined>', '</span>')
+            | replace('<i>', '<span style="font-style: italic;">')
+            | replace('</i>', '</span>')
             | replace('\n', '<br>')
             | safe }}
         </div>
