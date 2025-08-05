@@ -42,7 +42,7 @@ def single_question(practice_id, q_number):
     last_q_number = int(questions[-1]["id"].replace("q", ""))
     is_last_question = (q_number == last_q_number)
     
-    if (q_number == 55):
+    if (q_number == last_q_number + 1):
         return """
         <script>
             alert('Вы успешно сдали вербал! У вас есть 10 минут перерыва.');
