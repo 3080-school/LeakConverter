@@ -282,7 +282,7 @@
           {% endfor %}
         </div>
 
-        {% if q_number in [27, 54, 76, 98] %}
+        {% if is_last_question %}
           <div class="submit-btn">
             <button type="button" onclick="navigate('submit')">Submit Module ✅</button>
           </div>

@@ -39,6 +39,9 @@ def single_question(practice_id, q_number):
     questions.sort(key=lambda q: int(q["id"].replace("q", "")))
     question = next((q for q in questions if int(q["id"].replace("q", "")) == q_number), None)
     
+    last_q_number = int(questions[-1]["id"].replace("q", ""))
+    is_last_question = (q_number == last_q_number)
+    
     if (q_number == 55):
         return """
         <script>
@@ -138,14 +141,17 @@ def single_question(practice_id, q_number):
     answered_ids = [qid for qid in qids_in_module if answers.get(qid, '') not in [None, '']]
     marked_ids = [qid for qid in qids_in_module if qid in marked]
 
-    return render_template("question_single.html",
-                           question=question,
-                           q_number=q_number,
-                           table_img=table_img,
-                           practice_id=practice_id,
-                           selected=saved_answer,
-                           answered_ids=answered_ids,
-                           marked_ids=marked_ids)
+    return render_template(
+        "question_single.html",
+        question=question,
+        q_number=q_number,
+        table_img=table_img,
+        practice_id=practice_id,
+        selected=saved_answer,
+        answered_ids=answered_ids,
+        marked_ids=marked_ids,
+        is_last_question=is_last_question   # <-- новое!
+    )
 
 @app.route('/toggle_mark', methods=['POST'])
 def toggle_mark():
